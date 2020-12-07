@@ -1,0 +1,1350 @@
+﻿USER,SEX,AGE,MARITAL_STATUS,CHILD_QTY,HEIGHT,WEIGHT,SLEEP_HRS,PHYSICAL_ACT,READING,WORK_HRS,WORK_FIELD,SMOKER,LIVING_STYLE,BURNOUT,WORKFROMHOME
+1,1,28,1,0,181.8,120,9,40,1,9,Education,1,0,1,YES
+39,1,28,1,0,180.55,121,9,41,1,9,Sales and Business Management,1,0,1,YES
+77,1,28,0,0,179.3,121,9,42,1,9,Arts and Entertainment,1,0,0,YES
+288,1,28,1,0,178.05,122,9,43,1,9,Community and Social Services,1,0,1,YES
+329,1,28,0,0,176.8,121,8.5,44,1,9,Government,1,0,0,NO
+370,1,28,0,0,175.55,120,8.4,45,1,9.2,Education,1,0,0,NO
+411,1,28,1,0,174.3,119,8.3,46,1,9.2,Health and Medicine,1,0,1,NO
+452,1,28,0,0,173.05,100,8.3,47,1,9.2,Law and Public Policy,1,0,0,NO
+493,1,28,1,0,171.8,100,9,48,0,9.2,Arts and Entertainment,1,0,0,YES
+534,1,28,0,0,170.55,99,9,49,0,9.2,Community and Social Services,1,0,1,YES
+575,1,28,1,0,169.3,98,9,50,0,9.2,Community and Social Services,0,0,1,YES
+616,1,28,1,0,168.05,98,9,51,0,9.2,Community and Social Services,0,1,1,YES
+657,0,28,1,0,158,89,6.8,52,0,9.2,"Installation, Repair and Maintenance",0,1,1,NO
+698,0,28,1,0,159,90,6.7,53,0,9.2,Sales and Business Management,0,1,0,YES
+739,0,28,0,0,159,57,6.6,54,0,9,Education,0,1,1,YES
+780,0,28,1,0,150,57,6.5,55,0,9,Architecture and Engineering,0,1,1,NO
+821,0,28,1,0,151,57,6.4,56,0,9,Community and Social Services,0,1,1,YES
+862,0,28,1,0,152,57,6.3,57,0,9,Education,0,1,1,YES
+999,0,28,1,0,153,57,6.2,58,0,9,Government,0,1,1,YES
+2,1,29,0,0,166.8,98,8.5,59,0,7,Education,1,1,0,YES
+40,1,29,1,0,165.55,98,8.4,60,1,7,Sales and Business Management,0,1,1,NO
+78,1,29,0,0,164.3,97,8.3,61,1,7,Education,1,1,1,YES
+289,1,29,1,0,163.05,97,8.3,62,1,7,Education,0,0,0,YES
+330,1,29,0,0,161.8,97,9,63,1,7.2,"Installation, Repair and Maintenance",1,1,0,NO
+371,1,29,1,0,160.55,96,9,64,1,7.2,Education,0,0,0,YES
+412,1,29,1,0,159.3,95,9,65,1,7.2,Community and Social Services,0,1,0,NO
+453,1,29,1,0,158.05,120,9,66,1,7.2,Education,0,0,0,NO
+494,1,29,1,0,156.8,121,8.5,67,1,7.2,Health and Medicine,0,1,1,NO
+535,1,29,0,0,173.05,121,8.4,68,1,7.2,Sales and Business Management,0,0,0,YES
+576,1,29,1,0,171.8,122,8.3,69,1,7.2,Community and Social Services,1,1,1,YES
+617,1,29,1,0,170.55,121,8.3,70,1,7.2,Education,0,0,0,YES
+658,0,29,1,0,154,57,6.1,71,0,7.2,Health and Medicine,0,1,1,NO
+699,0,29,1,0,155,57,6,72,0,7.2,Health and Medicine,0,1,1,NO
+740,0,29,0,0,156,57,5.9,73,0,7.2,Health and Medicine,0,1,1,NO
+781,0,29,1,0,157,57,5.8,74,0,7.2,Education,0,1,0,YES
+822,0,29,1,0,158,57,5.7,75,0,7.2,Health and Medicine,0,1,1,NO
+863,0,29,1,0,190.5,57,5.6,76,0,7.2,Education,0,1,0,YES
+1000,0,29,1,0,184,57,5.5,77,0,7.2,Arts and Entertainment,1,1,0,YES
+1041,0,29,1,0,183,57,5.4,78,1,7.2,Education,0,1,0,YES
+1080,0,29,0,0,182,57,5.3,79,1,7.2,Health and Medicine,0,1,1,NO
+1119,0,29,1,0,183,57,5.2,80,1,7,Government,0,1,0,NO
+1158,0,29,0,0,182,57,5.1,81,1,7,Education,0,1,1,YES
+1197,0,29,0,0,182,57,5,82,1,7,Education,0,0,0,YES
+1236,0,29,1,0,181,57,4.9,83,1,7,Education,1,0,0,YES
+1275,0,29,1,0,180,57,5.9,84,1,7,Government,1,0,0,YES
+3,1,30,1,0,169.3,120,9,85,1,5,Health and Medicine,0,1,1,NO
+41,1,30,0,0,168.05,119,9,86,1,5,Architecture and Engineering,0,0,1,YES
+79,1,30,1,0,166.8,100,9,87,0,5,Health and Medicine,0,0,1,NO
+115,1,30,1,0,165.55,100,9,88,0,5,Health and Medicine,0,0,1,NO
+116,1,30,1,0,164.3,99,8.5,89,0,5,Education,0,0,1,YES
+117,1,30,1,0,163.05,98,8.4,90,0,5,Sales and Business Management,0,0,1,NO
+122,1,30,1,0,161.8,98,8.3,91,1,5,Health and Medicine,0,0,1,NO
+123,1,30,1,0,160.55,98,8.3,92,1,5,Law and Public Policy,0,0,0,NO
+124,1,30,1,0,159.3,98,9,93,1,5,Arts and Entertainment,0,0,0,YES
+129,1,30,0,0,158.05,97,9,94,1,5,Law and Public Policy,0,0,0,NO
+130,1,30,0,0,156.8,97,9,95,1,5,Community and Social Services,0,0,0,YES
+131,1,30,0,0,173.05,97,9,96,1,5,Law and Public Policy,0,0,0,YES
+136,1,30,1,0,171.8,96,8.5,97,1,5,Health and Medicine,0,0,1,NO
+137,1,30,1,0,170.55,95,8.4,98,1,5,Sales and Business Management,0,1,1,YES
+138,1,30,0,0,169.3,120,8.3,99,1,5,Arts and Entertainment,1,1,0,YES
+143,1,30,0,0,168.05,121,8.3,100,1,5,Law and Public Policy,0,1,0,NO
+144,1,30,0,0,166.8,121,9,101,1,5,Community and Social Services,0,1,0,NO
+145,1,30,0,0,165.55,122,9,102,1,5,Community and Social Services,0,0,1,YES
+150,1,30,1,0,164.3,121,9,103,1,5,Community and Social Services,0,1,0,NO
+151,1,30,1,0,163.05,120,9,104,1,5,Community and Social Services,0,0,0,NO
+152,1,30,1,0,161.8,119,8.5,105,1,5,Education,0,1,1,YES
+157,1,30,1,0,160.55,100,8.4,106,1,5,Health and Medicine,0,0,0,YES
+158,1,30,1,0,159.3,100,8.3,107,1,5,Education,0,1,1,YES
+159,1,30,0,0,158.05,99,8.3,108,1,5,Education,0,0,1,YES
+164,1,30,0,0,156.8,98,8,109,1,5,Health and Medicine,0,1,0,NO
+165,1,30,0,0,173.05,98,8,110,1,5,Health and Medicine,0,0,0,NO
+166,1,30,0,0,171.8,98,8,111,1,5,Law and Public Policy,0,1,0,NO
+171,1,30,1,0,170.55,98,8.3,112,1,5,Education,0,0,0,NO
+172,1,30,0,0,169.3,97,8,113,1,5,Community and Social Services,0,1,1,YES
+173,1,30,1,0,168.05,97,8,114,0,5,Education,0,1,1,YES
+178,1,30,0,0,166.8,97,8,115,0,5,Community and Social Services,0,1,0,NO
+179,1,30,0,0,165.55,96,8.3,116,0,5,Education,0,1,0,YES
+180,1,30,0,0,164.3,95,8,117,0,5,Education,0,1,1,YES
+185,1,30,1,0,163.05,120,8,118,0,5.5,Arts and Entertainment,0,1,0,YES
+186,1,30,1,0,161.8,121,8,119,1,5.5,Community and Social Services,0,1,1,NO
+187,1,30,1,0,160.55,121,8.3,120,1,5.5,Education,0,1,1,YES
+290,1,30,1,0,159.3,122,8,121,1,5.5,Education,0,1,1,YES
+331,1,30,0,0,158.05,121,8,122,1,5.5,Education,0,1,1,YES
+372,1,30,1,0,156.8,120,8,123,1,5.5,Community and Social Services,0,1,1,NO
+413,1,30,1,0,173.05,119,8.3,124,1,5.5,Community and Social Services,0,1,1,YES
+454,1,30,1,0,171.8,100,8,125,1,5.5,Education,0,1,1,YES
+495,1,30,1,0,170.55,100,8,126,1,5.5,Education,0,1,1,YES
+536,1,30,0,0,169.3,99,8,127,1,5.5,Education,0,1,1,YES
+577,1,30,1,0,168.05,98,7.5,128,1,5.5,Education,1,1,0,YES
+618,1,30,1,0,166.8,98,7.4,129,1,5.5,Community and Social Services,1,1,0,NO
+659,0,30,1,0,180,57,5.8,130,1,5.5,Law and Public Policy,1,0,1,NO
+700,0,30,1,0,180,57,5.7,131,0,5.5,Health and Medicine,1,0,0,NO
+741,0,30,0,0,179,57,5.6,132,0,5.5,"Installation, Repair and Maintenance",1,0,1,NO
+782,0,30,1,0,179,57,5.5,133,0,5.5,Education,1,0,0,YES
+823,0,30,0,0,178,57,5.4,134,0,5.5,Health and Medicine,1,0,0,NO
+864,0,30,1,0,177,57,5.3,135,0,5.5,Health and Medicine,1,0,0,NO
+1001,0,30,1,0,177,58,5.2,136,1,5.5,Health and Medicine,0,0,0,NO
+1042,0,30,1,0,177,59,5.1,137,1,5,Health and Medicine,0,0,0,NO
+1081,0,30,0,0,177,60,5,138,1,5,Health and Medicine,1,0,0,NO
+1120,0,30,1,0,177,61,4.9,139,1,5,Health and Medicine,0,0,0,NO
+1159,0,30,1,0,175,62,5.9,140,1,5,Education,1,0,1,YES
+1198,0,30,0,0,176,63,5.8,141,1,5,Education,0,0,1,YES
+1237,0,30,1,0,176,64,5.7,142,1,5,Education,1,0,1,YES
+1276,0,30,1,0,176,57,5.6,143,1,5,Health and Medicine,0,0,0,NO
+4,1,31,1,0,165.55,98,7.3,144,1,3,Architecture and Engineering,1,1,0,YES
+42,1,31,0,0,164.3,98,7,145,1,3,Education,1,1,1,YES
+80,1,31,1,0,163.05,97,7,146,0,3,Sales and Business Management,1,1,1,YES
+291,1,31,1,0,161.8,97,7,147,0,3,Education,1,1,1,YES
+332,1,31,0,0,160.55,97,7,148,0,3,Arts and Entertainment,1,1,0,YES
+373,1,31,1,0,159.3,96,7,149,0,3,Sales and Business Management,1,1,1,YES
+414,1,31,1,0,158.05,95,7,150,1,3,Sales and Business Management,1,1,1,YES
+455,1,31,1,0,156.8,120,7,151,1,3,Sales and Business Management,1,1,1,YES
+496,1,31,1,0,173.05,121,7,152,1,3,Architecture and Engineering,0,1,0,YES
+537,1,31,0,0,171.8,121,7,153,1,3,Sales and Business Management,0,1,1,YES
+578,1,31,1,0,170.55,122,7,154,1,3,Health and Medicine,1,1,0,YES
+619,1,31,0,0,169.3,121,7.5,155,1,3,Education,0,1,0,NO
+660,0,31,1,0,176,58,5.5,156,1,3,Education,0,1,0,NO
+701,0,31,1,0,175,59,5.4,157,1,3,Health and Medicine,0,1,0,YES
+742,0,31,0,0,174,60,5.3,158,1,3,Health and Medicine,0,1,0,YES
+783,0,31,1,0,174,61,5.2,159,1,3,Architecture and Engineering,1,1,0,YES
+824,0,31,0,0,174,62,5.1,160,1,3,Education,0,1,0,NO
+865,0,31,1,0,173,63,5,161,0,3,Health and Medicine,0,1,0,NO
+1002,0,31,1,0,172,64,4.9,162,0,3,Health and Medicine,0,1,1,NO
+1043,0,31,0,0,172,57,3.8,163,0,3,Health and Medicine,0,1,1,NO
+1082,0,31,0,0,171,58,3.8,164,0,3,Health and Medicine,0,1,1,NO
+1121,0,31,1,0,171,59,9,165,1,3,Community and Social Services,0,1,1,YES
+1160,0,31,1,0,171,60,9,166,1,3,Community and Social Services,0,1,1,YES
+1199,0,31,0,0,171,61,9,167,1,3,Community and Social Services,0,1,1,YES
+1238,0,31,1,0,171,62,8.5,168,1,3,Education,0,1,0,NO
+1277,0,31,1,0,171,63,8.4,169,1,3,Health and Medicine,0,1,0,NO
+5,1,32,1,0,168.05,120,7.4,170,1,1,Health and Medicine,1,1,1,NO
+43,1,32,0,0,166.8,119,7.3,171,1,1,Education,0,1,0,NO
+81,1,32,1,0,165.55,100,7,172,1,1,Sales and Business Management,1,1,1,YES
+292,1,32,1,0,164.3,100,7,173,1,1,Education,0,1,0,NO
+333,1,32,0,0,163.05,99,7,174,1,1,Sales and Business Management,0,1,0,YES
+374,1,32,1,0,161.8,98,7,175,1,1,Sales and Business Management,0,1,1,YES
+415,1,32,0,0,160.55,98,7,176,1,1,Architecture and Engineering,0,1,1,NO
+456,1,32,1,0,159.3,98,7,177,1,1,Sales and Business Management,0,1,1,NO
+497,1,32,1,0,158.05,98,7,178,1,1,Health and Medicine,0,1,1,NO
+538,1,32,0,0,156.8,97,7,179,1,1,Health and Medicine,0,1,1,NO
+579,1,32,1,0,167,97,7,180,1,1,Health and Medicine,0,1,1,NO
+620,1,32,0,0,166,97,7,181,1,1,Health and Medicine,0,1,1,NO
+661,0,32,1,0,170,64,8.3,182,1,1,Education,0,1,0,NO
+702,0,32,1,0,170,65,8.3,183,1,1,Health and Medicine,0,1,1,NO
+743,0,32,0,0,170,66,9,184,1,1,Community and Social Services,0,1,0,NO
+784,0,32,0,0,170,67,9,185,1,1,Education,0,1,1,YES
+825,0,32,0,0,170,57,9,186,1,1,Community and Social Services,0,1,0,NO
+866,0,32,1,0,170,58,9,187,1,1,"Installation, Repair and Maintenance",0,0,0,NO
+1003,0,32,1,0,170,59,8.5,188,1,1,Architecture and Engineering,1,0,0,YES
+1044,0,32,0,0,170,60,8.4,189,1,1,Architecture and Engineering,0,0,0,YES
+1083,0,32,0,0,170,61,8.3,190,1,1,Education,0,0,1,YES
+1122,0,32,1,0,170,62,8.3,191,1,1,Education,0,0,1,YES
+1161,0,32,1,0,170,63,9,192,1,1,Health and Medicine,0,0,1,NO
+1200,0,32,0,0,170,64,9,193,1,1,Community and Social Services,0,0,0,NO
+1239,0,32,1,0,170,57,9,194,1,1,Community and Social Services,0,0,1,YES
+1278,0,32,1,0,170,58,9,195,1,1,Health and Medicine,0,0,1,NO
+6,1,33,1,0,165,96,7.5,196,1,-1,Education,0,1,1,YES
+44,1,33,0,0,164,95,7.4,197,1,-1,Education,0,1,1,YES
+82,1,33,1,0,163,120,7.3,198,1,-1,Architecture and Engineering,0,1,1,NO
+293,1,33,1,0,162,121,7,199,1,-1,Education,0,1,1,YES
+334,1,33,0,0,161,121,7,200,1,-1,Community and Social Services,0,0,1,YES
+375,1,33,1,0,167,122,7,201,0,-1,Education,0,0,1,YES
+416,1,33,0,0,166,121,7,202,0,-1,Architecture and Engineering,0,0,0,YES
+457,1,33,1,0,165,120,7,203,0,-1,Education,0,0,1,YES
+498,1,33,1,0,164,119,7,204,0,-1,Architecture and Engineering,0,0,0,YES
+539,1,33,0,0,163,100,7,205,0,-1,Architecture and Engineering,0,1,0,YES
+580,1,33,0,0,162,100,7,206,1,-1,Arts and Entertainment,0,1,0,YES
+621,1,33,0,0,161,99,7,207,1,-1,Sales and Business Management,0,1,1,YES
+662,0,33,1,0,170,59,8.5,208,1,-1,Education,0,0,1,YES
+703,0,33,0,0,170,60,8.4,209,1,-1,Health and Medicine,0,0,1,NO
+744,0,33,0,0,170,61,8.3,210,1,-1,Health and Medicine,0,0,0,NO
+785,0,33,1,0,170,62,8.3,211,1,-1,Health and Medicine,0,0,0,NO
+826,0,33,0,0,181.8,63,9,212,0,-1,Education,0,0,1,YES
+867,0,33,1,0,180.55,64,9,213,0,-1,Community and Social Services,0,0,0,NO
+1004,0,33,1,0,179.3,65,9,214,0,-1,Education,0,0,1,YES
+1045,0,33,0,0,178.05,66,9,215,0,-1,Community and Social Services,0,0,1,YES
+1084,0,33,0,0,176.8,67,8.5,216,0,-1,Health and Medicine,0,1,1,NO
+1123,0,33,1,0,175.55,57,8.4,217,1,-1,Health and Medicine,0,1,1,NO
+1162,0,33,1,0,174.3,58,8.3,218,1,-1,Education,0,1,1,YES
+1201,0,33,1,0,173.05,59,8.3,219,1,-1,Education,0,1,1,YES
+1240,0,33,1,0,171.8,60,9,220,1,-1,Health and Medicine,0,1,1,NO
+1279,0,33,1,0,170.55,61,9,221,1,-1,Community and Social Services,0,1,1,YES
+7,1,34,0,0,167,98,7,222,1,-3,Sales and Business Management,0,1,0,YES
+45,1,34,1,0,166,98,7.5,223,1,-3,Education,0,0,1,YES
+83,1,34,1,0,165,98,7.4,224,1,-3,Community and Social Services,0,1,0,NO
+118,1,34,1,0,164,98,7.3,225,1,-3,Sales and Business Management,0,0,1,YES
+119,1,34,1,0,163,97,7,226,1,-3,Sales and Business Management,0,1,1,YES
+125,1,34,0,0,162,97,7,227,1,-3,Health and Medicine,0,0,0,NO
+126,1,34,0,0,161,97,7,228,1,-3,Architecture and Engineering,0,1,0,YES
+132,1,34,0,0,167,96,7,229,1,-3,Health and Medicine,0,0,0,NO
+133,1,34,1,0,166,95,7,230,1,-3,Health and Medicine,0,1,1,NO
+139,1,34,1,0,165,120,7,231,1,-3,Health and Medicine,0,0,1,NO
+140,1,34,1,0,164,121,7,232,1,-3,Health and Medicine,0,1,1,NO
+146,1,34,0,0,163,121,7,233,0,-3,Health and Medicine,0,0,1,NO
+147,1,34,1,0,162,122,7,234,0,-3,Architecture and Engineering,0,1,1,YES
+153,1,34,1,0,161,121,7,235,0,-3,Sales and Business Management,0,1,1,NO
+154,1,34,1,0,167,120,7.5,236,0,-3,Health and Medicine,0,1,1,NO
+160,1,34,0,0,166,119,7.4,40,1,-3,Education,0,1,1,YES
+161,1,34,0,0,165,100,7.3,41,1,-3,Sales and Business Management,0,1,1,YES
+167,1,34,1,0,164,100,7,42,1,-3,Arts and Entertainment,1,1,0,YES
+168,1,34,1,0,163,99,7,43,1,-3,Sales and Business Management,0,1,1,YES
+174,1,34,1,0,162,98,7,44,1,-3,Arts and Entertainment,1,1,0,YES
+175,1,34,1,0,161,98,7,45,1,-3,Education,0,1,1,YES
+181,1,34,1,0,167,98,7,46,1,-3,Sales and Business Management,0,1,1,YES
+182,1,34,1,0,166,98,7,47,1,-3,Sales and Business Management,0,1,1,NO
+188,1,34,1,0,165,97,7,48,1,-3,Community and Social Services,1,1,1,YES
+189,1,34,1,0,164,97,7,49,1,-3,Sales and Business Management,0,1,1,YES
+294,1,34,1,0,163,97,7,50,1,-3,Education,0,1,1,YES
+335,1,34,0,0,162,96,7,51,1,-3,Architecture and Engineering,0,1,1,NO
+376,1,34,0,0,161,95,7.5,52,1,-3,Health and Medicine,0,1,1,NO
+417,1,34,0,0,167,89,7.4,53,1,-3,Community and Social Services,0,1,1,YES
+458,1,34,1,0,166,89,7.3,54,1,-3,Sales and Business Management,1,1,1,NO
+499,1,34,0,0,165,89,7,55,1,-3,Education,1,1,1,YES
+540,1,34,0,0,164,88,7,56,1,-3,Sales and Business Management,1,1,0,YES
+581,1,34,1,0,163,88,7,57,1,-3,Education,1,1,1,YES
+622,1,34,0,0,162,87,7,58,1,-3,Arts and Entertainment,1,1,0,YES
+663,0,34,1,0,169.3,62,9,59,1,-3,Education,0,1,1,YES
+704,0,34,0,0,168.05,63,9,60,1,-3,Community and Social Services,0,1,1,NO
+745,0,34,1,0,166.8,64,8.5,61,1,-3,Education,0,1,0,YES
+786,0,34,1,0,165.55,57,8.4,62,1,-3,Arts and Entertainment,0,1,0,YES
+827,0,34,1,0,164.3,58,8.3,63,1,-3,Health and Medicine,0,1,0,NO
+868,0,34,1,0,163.05,59,8.3,64,1,-3,Health and Medicine,0,1,0,YES
+1005,0,34,1,0,161.8,60,9,65,1,-3,Education,0,1,1,YES
+1046,0,34,0,0,160.55,61,9,66,1,-3,Community and Social Services,1,1,0,NO
+1085,0,34,1,0,159.3,62,9,67,0,-3,"Installation, Repair and Maintenance",1,1,0,NO
+1124,0,34,0,0,158.05,63,9,68,0,-3,Arts and Entertainment,1,1,0,YES
+1163,0,34,0,0,156.8,64,8.5,69,0,-3,Health and Medicine,1,1,0,YES
+1202,0,34,1,0,173.05,65,8.4,70,0,-3,Sales and Business Management,1,1,0,YES
+1241,0,34,1,0,171.8,66,8.3,71,1,-3,Education,1,1,1,YES
+1280,0,34,1,0,170.55,67,8.3,72,1,-3,Education,1,0,1,YES
+1314,0,34,1,0,169.3,57,8,73,1,-3,Community and Social Services,1,0,0,NO
+1315,0,34,0,0,168.05,58,8,74,1,-3,Community and Social Services,1,0,0,NO
+8,1,35,0,0,161,87,7,75,1,-5,Sales and Business Management,1,1,1,YES
+46,1,35,1,0,167,86,7,76,1,-5,Architecture and Engineering,1,1,0,YES
+84,1,35,1,0,166,86,7,77,1,-5,Architecture and Engineering,1,1,1,NO
+295,1,35,0,0,165,85,7,78,1,-5,Architecture and Engineering,1,1,0,YES
+336,1,35,0,0,164,84.6,7,79,0,-5,Sales and Business Management,1,1,0,YES
+377,1,35,1,0,163,84.05714286,7,80,0,-5,Health and Medicine,0,1,1,YES
+418,1,35,0,0,162,83.51428571,7.5,81,0,-5,Education,0,1,0,NO
+459,1,35,1,0,161,82.97142857,7.4,82,0,-5,Health and Medicine,1,1,1,NO
+500,1,35,0,0,167,82.42857143,7.3,83,0,-5,Education,0,1,0,NO
+541,1,35,1,0,166,81.88571429,7,84,1,-5,Sales and Business Management,1,1,1,YES
+582,1,35,1,0,165,81.34285714,7,85,1,-5,Education,0,1,0,YES
+623,1,35,1,0,164,80.8,7,86,1,-5,Sales and Business Management,1,1,1,YES
+664,0,35,1,0,166.8,59,8,87,1,-5,Health and Medicine,1,0,0,NO
+705,0,35,0,0,165.55,60,8.3,88,1,-5,Education,0,0,1,YES
+746,0,35,1,0,164.3,61,8,89,1,-5,Health and Medicine,0,0,1,NO
+787,0,35,1,0,163.05,62,8,90,1,-5,Architecture and Engineering,1,0,1,NO
+828,0,35,1,0,161.8,63,8,91,1,-5,Health and Medicine,0,0,1,NO
+869,0,35,1,0,160.55,64,8.3,92,1,-5,Education,1,0,0,YES
+1006,0,35,1,0,159.3,57,8,93,1,-5,Health and Medicine,0,0,1,NO
+1047,0,35,0,0,158.05,58,8,94,1,-5,Community and Social Services,1,0,1,YES
+1086,0,35,1,0,156.8,59,8,95,1,-5,Education,0,0,0,YES
+1125,0,35,1,0,173.05,60,8.3,96,1,-5,Health and Medicine,0,0,0,NO
+1164,0,35,0,0,171.8,61,8,97,1,-5,Education,0,0,0,YES
+1203,0,35,1,0,170.55,62,8,98,1,-5,Education,0,0,0,NO
+1242,0,35,1,0,169.3,63,8,99,1,-5,Arts and Entertainment,0,0,0,YES
+1281,0,35,0,0,168.05,64,8.3,100,1,-5,Education,0,0,0,NO
+1316,0,35,0,0,166.8,65,8,101,1,-5,Arts and Entertainment,1,1,0,YES
+1317,0,35,0,0,165.55,66,8,102,1,-5,Education,0,1,1,YES
+1318,0,35.5,0,0,164.3,67,8,103,1,-6,Education,0,1,1,YES
+1319,0,35.9,0,0,163.05,57,7.5,104,1,-6.8,Health and Medicine,0,1,1,NO
+9,1,36,0,0,163,80.25714286,7,105,1,-7,Sales and Business Management,0,1,0,YES
+47,1,36,1,0,162,79.71428571,7,106,1,-7,Arts and Entertainment,1,1,0,YES
+85,1,36,1,0,161,79.17142857,7,107,1,-7,Sales and Business Management,0,1,1,YES
+296,1,36,0,0,167,78.62857143,7,108,1,-7,Health and Medicine,0,1,0,NO
+337,1,36,1,0,166,78.08571429,7,109,1,-7,Health and Medicine,0,1,1,NO
+378,1,36,1,0,165,77.54285714,7,110,1,-7,Health and Medicine,0,1,1,NO
+419,1,36,1,0,164,77,7,111,1,-7,Health and Medicine,0,1,1,NO
+460,1,36,1,0,163,76.45714286,6.9,112,1,-7,Community and Social Services,0,1,0,NO
+501,1,36,0,0,162,75.91428571,6.8,113,1,-7,Law and Public Policy,0,1,0,NO
+542,1,36,1,0,161,88,6.7,114,1,-7,Sales and Business Management,0,1,1,YES
+583,1,36,1,0,167,87,6.6,115,0,-7,Education,0,1,1,YES
+624,1,36,1,0,166,87,6.5,116,0,-7,Arts and Entertainment,1,0,0,YES
+665,0,36,1,0,161.8,58,7.4,117,1,-7,Community and Social Services,1,1,1,YES
+706,0,36,0,0,160.55,59,7.3,118,0,-7,Sales and Business Management,0,1,1,NO
+747,0,36,1,0,159.3,60,7,119,0,-7,Education,0,1,1,YES
+788,0,36,1,0,158.05,61,7,120,0,-7,Sales and Business Management,0,1,1,NO
+829,0,36,1,0,156.8,62,7,121,0,-7,Sales and Business Management,0,1,1,YES
+870,0,36,1,0,173.05,63,7,122,0,-7,Community and Social Services,0,1,1,YES
+1007,0,36,1,0,171.8,64,7,123,1,-7,Sales and Business Management,0,1,0,YES
+1048,0,36,0,0,170.55,57,7,124,1,-7,Health and Medicine,0,1,0,NO
+1087,0,36,1,0,169.3,58,7,125,1,-7,Health and Medicine,0,1,1,NO
+1126,0,36,1,0,168.05,59,7,126,1,-7,Health and Medicine,0,1,1,NO
+1165,0,36,0,0,166.8,60,7,127,1,-7,Health and Medicine,0,1,0,YES
+1204,0,36,1,0,165.55,61,7,128,1,-7,Arts and Entertainment,0,1,0,YES
+1243,0,36,1,0,164.3,62,7.5,129,1,-7,Health and Medicine,0,1,1,NO
+1282,0,36,0,0,163.05,63,7.4,130,1,-7,Community and Social Services,0,1,0,NO
+1320,0,36.3,0,0,161.8,64,7.3,131,1,-7.6,Architecture and Engineering,0,1,0,YES
+1321,0,36.7,0,0,160.55,65,7,132,1,-8.4,Architecture and Engineering,0,1,0,YES
+10,1,37,0,0,165,86,6.4,133,0,-9,Education,0,0,1,YES
+48,1,37,1,0,164,86,6.3,134,0,-9,Health and Medicine,0,0,1,YES
+86,1,37,1,0,163,85,6.2,135,1,-9,Education,0,0,1,YES
+297,1,37,0,0,162,84.6,6.1,136,1,-9,Community and Social Services,0,0,1,YES
+338,1,37,1,0,161,84.05714286,6,137,1,-9,Health and Medicine,0,1,1,NO
+379,1,37,1,0,167,83.51428571,6.9,138,1,-9,Community and Social Services,0,1,1,YES
+420,1,37,1,0,166,82.97142857,6.8,139,1,-9,Health and Medicine,0,1,1,NO
+461,1,37,1,0,165,82.42857143,6.7,140,1,-9,Architecture and Engineering,0,1,1,YES
+502,1,37,0,0,164,81.88571429,6.6,141,1,-9,Education,0,0,0,NO
+543,1,37,1,0,163,81.34285714,6.5,142,1,-9,Architecture and Engineering,0,1,1,NO
+584,1,37,1,0,162,80.8,6.4,143,1,-9,Community and Social Services,0,0,0,NO
+625,1,37,1,0,161,80.25714286,6.3,144,1,-9,Education,0,1,1,YES
+666,0,37,1,0,159.3,66,7,145,1,-9,Sales and Business Management,0,1,0,YES
+707,0,37,0,0,158.05,67,7,146,1,-9,Health and Medicine,0,1,0,NO
+748,0,37,1,0,156.8,57,7,147,1,-9,Health and Medicine,0,1,1,NO
+789,0,37,0,0,173.05,58,7,148,0,-9,Health and Medicine,0,1,0,NO
+830,0,37,1,0,171.8,59,7,149,0,-9,"Installation, Repair and Maintenance",0,1,1,NO
+871,0,37,1,0,170.55,60,7,150,0,-9,Sales and Business Management,0,1,0,YES
+1008,0,37,1,0,169.3,61,7,151,0,-9,"Installation, Repair and Maintenance",0,1,0,NO
+1049,0,37,0,0,168.05,62,7,152,1,-9,Sales and Business Management,0,1,0,YES
+1088,0,37,1,0,166.8,63,7,153,1,-9,Sales and Business Management,0,1,0,YES
+1127,0,37,1,0,165.55,64,7.5,154,1,-9,Arts and Entertainment,1,1,0,YES
+1166,0,37,0,0,164.3,57,7.4,155,1,-9,Community and Social Services,0,1,0,NO
+1205,0,37,1,0,163.05,58,7.3,156,1,-9,Health and Medicine,0,1,1,YES
+1244,0,37,1,0,161.8,59,7,157,1,-9,Health and Medicine,0,1,1,YES
+1283,0,37,0,0,160.55,60,7,158,1,-9,Health and Medicine,0,1,0,YES
+1322,0,37.1,0,0,159.3,61,7,159,1,-9.2,Education,0,1,1,YES
+1323,0,37.5,1,0,158.05,62,7,160,1,-10,Sales and Business Management,0,1,0,YES
+1324,0,37.9,1,0,156.8,63,7,161,1,-10.8,Sales and Business Management,0,1,0,YES
+11,1,38,1,0,167,79.71428571,6.2,162,1,-11,Health and Medicine,0,0,1,NO
+49,1,38,1,0,166,79.17142857,6.1,163,1,-11,Health and Medicine,0,1,1,NO
+87,1,38,1,0,165,78.62857143,6,164,1,-11,Sales and Business Management,0,0,1,YES
+298,1,38,0,0,164,78.08571429,6.9,165,1,-11,Health and Medicine,0,1,0,NO
+339,1,38,1,0,163,77.54285714,6.8,166,1,-11,Health and Medicine,0,0,0,YES
+380,1,38,1,0,162,77,6.7,167,1,-11,Health and Medicine,0,1,1,NO
+421,1,38,1,0,161,76.45714286,6.6,168,1,-11,Education,0,0,1,YES
+462,1,38,1,0,167,75.91428571,6.5,169,1,-11,Sales and Business Management,0,1,1,YES
+503,1,38,0,0,166,88,6.4,170,1,-11,Education,0,1,0,NO
+544,1,38,1,0,165,87,6.3,171,1,-11,Health and Medicine,0,1,1,NO
+585,1,38,0,0,164,87,6.2,172,1,-11,Education,0,1,0,NO
+626,1,38,1,0,163,86,6.1,173,1,-11,"Installation, Repair and Maintenance",0,1,0,NO
+667,0,38,1,0,173.05,64,7,174,1,-11,Arts and Entertainment,0,1,0,YES
+708,0,38,0,0,171.8,65,7,175,1,-11,Sales and Business Management,0,1,1,YES
+749,0,38,1,0,170.55,66,7,176,1,-11,Health and Medicine,0,1,1,NO
+790,0,38,0,0,169.3,67,7,177,1,-11,Health and Medicine,0,1,1,NO
+831,0,38,1,0,168.05,68,7,178,1,-11,Health and Medicine,0,1,1,NO
+872,0,38,1,0,166.8,69,7.5,179,1,-11,Education,0,1,1,YES
+1009,0,38,0,0,165.55,60,7.4,180,1,-11,Community and Social Services,0,1,1,YES
+1050,0,38,0,0,164.3,61,7.3,181,1,-11,Architecture and Engineering,1,1,1,YES
+1089,0,38,1,0,163.05,62,7,182,1,-11,Sales and Business Management,1,1,1,NO
+1128,0,38,1,0,161.8,63,7,183,1,-11,Sales and Business Management,1,1,0,YES
+1167,0,38,1,0,160.55,64,7,184,1,-11,Sales and Business Management,1,1,0,YES
+1206,0,38,1,0,159.3,57,7,185,1,-11,Sales and Business Management,1,1,0,YES
+1245,0,38,1,0,158.05,58,7,186,1,-11,Health and Medicine,1,1,1,NO
+1284,0,38,0,0,156.8,59,7,187,0,-11,Health and Medicine,1,1,0,YES
+1325,0,38.3,1,0,167,60,7,188,0,-11.6,Health and Medicine,1,1,1,NO
+1326,0,38.7,1,0,166,61,7,189,0,-12.4,Education,1,1,0,YES
+12,1,39,1,0,162,86,6,190,1,-13,Education,0,1,1,YES
+50,1,39,1,0,161,85,6.9,191,0,-13,Community and Social Services,0,1,0,NO
+88,1,39,1,0,167,84.6,6.8,192,0,-13,Arts and Entertainment,0,1,0,YES
+299,1,39,0,0,166,84.05714286,6.7,193,0,-13,Education,0,1,0,YES
+340,1,39,1,0,165,83.51428571,6.6,194,0,-13,Education,0,1,0,NO
+381,1,39,0,0,164,82.97142857,6.5,195,0,-13,Sales and Business Management,0,1,0,YES
+422,1,39,1,0,163,82.42857143,6.4,196,1,-13,Community and Social Services,0,1,1,YES
+463,1,39,1,0,162,81.88571429,6.3,197,1,-13,Architecture and Engineering,0,1,1,NO
+504,1,39,0,0,161,81.34285714,6.2,198,1,-13,Education,0,1,1,YES
+545,1,39,1,0,167,80.8,6.1,199,1,-13,Community and Social Services,0,1,1,NO
+586,1,39,0,0,166,80.25714286,6,200,1,-13,Health and Medicine,0,1,1,NO
+627,1,39,1,0,165,79.71428571,6.9,201,1,-13,Community and Social Services,0,1,1,YES
+668,0,39,1,1,165,62,7,202,0,-13,Sales and Business Management,1,1,0,YES
+709,0,39,0,1,164,63,7,203,0,-13,Education,0,1,0,NO
+750,0,39,0,1,163,64,7.5,204,1,-13,Health and Medicine,0,1,0,NO
+791,0,39,0,1,162,65,7.4,205,1,-13,Education,1,1,1,YES
+832,0,39,1,1,161,66,7.3,206,1,-13,Arts and Entertainment,1,1,0,YES
+873,0,39,0,1,167,67,7,207,1,-13,Sales and Business Management,1,1,0,YES
+1010,0,39,0,1,166,57,7,208,1,-13,Health and Medicine,0,1,0,NO
+1051,0,39,1,1,165,58,7,209,1,-13,Health and Medicine,1,1,1,NO
+1090,0,39,0,1,164,59,7,210,1,-13,Health and Medicine,0,1,0,NO
+1129,0,39,0,1,163,60,7,211,1,-13,Education,0,1,1,YES
+1168,0,39,1,1,162,61,7,212,1,-13,Sales and Business Management,0,1,0,YES
+1207,0,39,1,1,161,62,7,213,1,-13,Sales and Business Management,0,1,0,YES
+1246,0,39,1,1,167,63,7,214,1,-13,Arts and Entertainment,1,1,0,YES
+1285,0,39,0,1,166,64,7,215,1,-13,Architecture and Engineering,0,1,0,YES
+1327,0,39.1,1,1,165,57,7,216,1,-13.2,Health and Medicine,0,1,1,NO
+1328,0,39.5,0,1,164,58,7.5,217,0,-14,"Installation, Repair and Maintenance",0,1,1,NO
+1329,0,39.9,1,1,163,59,7.4,218,0,-14.8,Health and Medicine,0,1,1,NO
+13,1,40,1,1,164,79.17142857,6.8,219,1,-15,Health and Medicine,0,1,1,NO
+51,1,40,1,1,163,78.62857143,6.7,220,1,-15,Health and Medicine,0,1,1,NO
+89,1,40,1,1,162,78.08571429,6.6,221,1,-15,"Installation, Repair and Maintenance",1,1,1,NO
+192,1,40,1,1,161,77.54285714,6.5,222,1,-15,Health and Medicine,1,1,1,NO
+204,1,40,1,1,167,77,6.4,223,1,-15,Health and Medicine,1,1,1,NO
+216,1,40,1,1,166,76.45714286,6.3,224,1,-15,Education,1,1,1,YES
+228,1,40,0,1,165,75.91428571,6.2,225,1,-15,Community and Social Services,1,1,1,YES
+240,1,40,0,1,164,88,6.1,226,0,-15,Community and Social Services,1,1,0,NO
+252,1,40,1,1,163,87,6,227,0,-15,Education,1,1,1,YES
+264,1,40,0,1,162,87,6.9,228,0,-15,Sales and Business Management,1,1,0,YES
+276,1,40,1,1,161,86,6.8,229,0,-15,Health and Medicine,1,1,0,NO
+300,1,40,0,1,167,86,6.7,230,1,-15,Health and Medicine,1,1,0,NO
+341,1,40,1,1,166,85,6.6,231,1,-15,Education,0,1,1,YES
+382,1,40,0,1,165,84.6,6.5,232,1,-15,Law and Public Policy,0,1,0,NO
+423,1,40,1,1,164,84.05714286,6.4,233,1,-15,Education,1,1,0,YES
+464,1,40,1,1,163,83.51428571,6.3,234,1,-15,Law and Public Policy,0,1,0,NO
+505,1,40,0,1,162,82.97142857,6.2,235,1,-15,Education,1,1,1,YES
+546,1,40,0,1,161,82.42857143,6.1,236,1,-15,Community and Social Services,0,1,0,NO
+587,1,40,0,1,167,81.88571429,6,40,1,-15,Law and Public Policy,1,1,0,NO
+628,1,40,1,1,166,81.34285714,6.9,41,1,-15,Arts and Entertainment,1,1,0,NO
+669,0,40,0,1,162,60,7.3,42,0,-15,Architecture and Engineering,0,1,1,NO
+710,0,40,0,1,161,61,7,43,0,-15,Community and Social Services,1,1,1,YES
+751,0,40,1,1,167,62,7,44,1,-15,Sales and Business Management,0,1,1,NO
+792,0,40,0,1,166,63,7,45,1,-15,Sales and Business Management,0,1,1,NO
+833,0,40,1,1,165,64,7,46,1,-15,Sales and Business Management,0,1,1,NO
+874,0,40,0,1,164,65,7,47,0,-15,Sales and Business Management,0,1,1,NO
+1011,0,40,0,1,163,66,7,48,0,-15,Sales and Business Management,0,1,1,YES
+1052,0,40,1,1,162,67,7,49,0,-15,Law and Public Policy,0,1,1,NO
+1091,0,40,1,1,161,68,7,50,0,-15,Health and Medicine,0,1,1,YES
+1130,0,40,0,1,167,69,7,51,0,-15,Health and Medicine,0,1,0,YES
+1169,0,40,1,1,166,60,7,52,0,-15,Education,0,1,0,YES
+1208,0,40,1,1,165,61,7.5,53,0,-15,Health and Medicine,0,1,1,NO
+1247,0,40,0,1,164,62,7.4,54,0,-15,Education,0,1,1,YES
+1286,0,40,0,1,163,63,7.3,55,0,-15,Sales and Business Management,0,1,0,YES
+1330,0,40.3,1,1,162,64,7,56,0,-15.6,Sales and Business Management,0,1,0,YES
+1331,0,40.7,1,1,161,57,7,57,0,-16.4,Arts and Entertainment,1,1,0,NO
+14,1,41,1,1,165,80.8,6.8,58,1,-17,Health and Medicine,0,1,1,NO
+52,1,41,1,1,164,80.25714286,6.7,59,1,-17,Health and Medicine,0,1,1,NO
+90,1,41,1,1,163,79.71428571,6.6,60,1,-17,"Installation, Repair and Maintenance",0,1,1,NO
+193,1,41,0,1,162,79.17142857,6.5,61,1,-17,Health and Medicine,0,1,1,NO
+205,1,41,1,1,161,78.62857143,6.4,62,1,-17,Community and Social Services,0,1,1,YES
+217,1,41,1,1,167,78.08571429,6.3,63,1,-17,Health and Medicine,0,1,1,NO
+229,1,41,0,1,166,77.54285714,6.2,64,1,-17,Community and Social Services,0,1,1,YES
+241,1,41,1,1,165,77,6.1,65,1,-17,Education,0,1,0,YES
+253,1,41,1,1,164,76.45714286,6,66,1,-17,Health and Medicine,0,0,1,NO
+265,1,41,0,1,163,75.91428571,6.9,67,1,-17,Arts and Entertainment,0,0,0,NO
+277,1,41,1,1,162,97,6.8,68,1,-17,Education,0,0,1,YES
+301,1,41,0,1,161,97,6.7,69,1,-17,Arts and Entertainment,0,0,0,NO
+342,1,41,0,1,167,96,6.6,70,1,-17,Education,0,0,0,YES
+383,1,41,0,1,166,95,6.5,71,1,-17,Sales and Business Management,0,1,1,NO
+424,1,41,1,1,165,89,6.4,72,0,-17,Community and Social Services,0,1,1,YES
+465,1,41,0,1,164,89,6.3,73,0,-17,Community and Social Services,0,1,1,YES
+506,1,41,0,1,163,89,6.2,74,0,-17,Education,0,1,1,YES
+547,1,41,1,1,162,88,6.1,75,0,-17,Education,0,0,1,YES
+588,1,41,0,1,161,88,6,76,0,-17,Health and Medicine,0,1,1,NO
+629,1,41,1,1,167,87,6.9,77,1,-17,Education,0,0,1,YES
+670,0,41,0,1,167,58,7,78,0,-17,Sales and Business Management,0,1,0,YES
+711,0,41,1,1,166,59,7,79,0,-17,Health and Medicine,0,1,1,NO
+752,0,41,1,1,165,60,7,80,0,-17,Health and Medicine,0,1,1,NO
+793,0,41,1,1,164,61,7,81,0,-17,Health and Medicine,0,1,1,NO
+834,0,41,1,1,163,62,7,82,0,-17,Architecture and Engineering,0,1,0,YES
+875,0,41,0,1,162,63,7,83,0,-17,Arts and Entertainment,0,1,0,YES
+1012,0,41,0,1,161,64,7,84,0,-17,Architecture and Engineering,0,1,0,YES
+1053,0,41,1,1,167,65,7,85,0,-17,Health and Medicine,0,1,1,NO
+1092,0,41,1,1,166,66,6.9,86,0,-17,Health and Medicine,0,1,1,NO
+1131,0,41,0,1,165,67,9,87,0,-17,Health and Medicine,0,1,1,NO
+1170,0,41,1,1,164,57,9,88,0,-17,Health and Medicine,0,1,1,NO
+1209,0,41,1,1,163,58,9,89,0,-17,Community and Social Services,0,1,1,YES
+1248,0,41,0,1,162,59,8.5,90,1,-17,Health and Medicine,0,1,1,NO
+1287,0,41,0,1,161,60,8.4,91,1,-17,Architecture and Engineering,0,1,1,NO
+1332,0,41.1,1,1,167,61,8.3,92,1,-17.2,Education,0,1,1,YES
+1333,0,41.5,0,1,166,62,8.3,93,1,-18,Education,0,1,1,YES
+1334,0,41.9,0,1,165,63,9,94,1,-18.8,Education,0,1,1,YES
+15,1,42,1,1,166,87,6.8,95,1,-19,Architecture and Engineering,1,1,1,YES
+53,1,42,1,1,165,86,6.7,96,1,-19,Sales and Business Management,0,0,1,NO
+91,1,42,0,1,164,86,6.6,97,1,-19,Education,0,1,0,NO
+194,1,42,0,1,163,85,6.5,98,1,-19,Government,0,0,0,NO
+206,1,42,0,1,162,84.6,6.4,99,1,-19,Government,0,1,0,NO
+218,1,42,1,1,161,84.05714286,6.3,100,1,-19,Education,0,0,0,YES
+230,1,42,0,1,167,83.51428571,6.2,101,1,-19,Architecture and Engineering,0,1,0,YES
+242,1,42,1,1,166,82.97142857,6.1,102,1,-19,Community and Social Services,0,0,0,NO
+254,1,42,1,1,165,82.42857143,6,103,1,-19,Government,0,1,0,NO
+266,1,42,0,1,164,81.88571429,6.9,104,1,-19,Community and Social Services,0,1,0,NO
+278,1,42,1,1,163,81.34285714,6.8,105,1,-19,"Installation, Repair and Maintenance",0,1,0,NO
+302,1,42,0,1,162,97,6.7,106,1,-19,Sales and Business Management,0,1,0,YES
+343,1,42,1,1,161,97,6.6,107,0,-19,Education,0,1,1,YES
+384,1,42,0,1,167,96,6.5,108,0,-19,Architecture and Engineering,0,1,0,YES
+425,1,42,1,1,166,95,6.4,109,0,-19,Architecture and Engineering,0,1,0,YES
+466,1,42,0,1,165,89,6.3,110,0,-19,Education,0,1,1,YES
+507,1,42,1,2,164,89,6.2,111,1,-19,Education,0,1,0,NO
+548,1,42,1,2,163,89,6.1,112,1,-19,"Installation, Repair and Maintenance",0,1,1,NO
+589,1,42,1,2,162,88,6,113,1,-19,Architecture and Engineering,0,1,0,YES
+630,1,42,1,2,161,88,6.5,114,1,-19,Sales and Business Management,0,1,1,YES
+671,0,42,0,2,164,64,9,115,1,-19,"Farming, Forestry and Fishing",0,1,0,YES
+712,0,42,1,2,163,57,9,116,1,-19,Education,0,1,1,YES
+753,0,42,1,2,162,58,9,117,1,-19,Education,0,1,1,YES
+794,0,42,1,2,161,59,8.5,118,1,-19,Government,0,1,1,YES
+835,0,42,1,2,167,60,8.4,119,1,-19,Community and Social Services,0,1,1,YES
+876,0,42,0,2,166,61,8.3,120,0,-19,Government,0,1,1,YES
+1013,0,42,0,2,165,62,8.3,121,0,-19,Government,0,1,1,YES
+1054,0,42,1,2,164,63,9,122,0,-19,Community and Social Services,0,1,1,YES
+1093,0,42,1,2,163,64,9,123,0,-19,Community and Social Services,1,1,1,YES
+1132,0,42,0,2,162,65,9,124,1,-19,Sales and Business Management,1,1,1,NO
+1171,0,42,1,2,161,66,9,125,1,-19,"Farming, Forestry and Fishing",1,1,1,NO
+1210,0,42,1,2,167,67,8.5,126,1,-19,Education,1,1,0,YES
+1249,0,42,0,2,166,68,8.4,127,0,-19,Government,1,1,0,NO
+1288,0,42,0,2,165,69,8.3,128,0,-19,Education,1,1,1,YES
+1335,0,42.3,0,2,164,60,8.3,129,0,-19.6,Education,1,1,1,YES
+1336,0,42.7,0,2,163,61,9,130,0,-20.4,Health and Medicine,1,1,0,NO
+16,1,43,1,2,167,87,6.4,131,1,-21,Education,0,1,1,YES
+54,1,43,1,2,166,87,6.3,132,1,-21,Health and Medicine,0,1,1,NO
+92,1,43,0,2,165,86,6.2,133,1,-21,Education,0,1,1,YES
+195,1,43,0,2,164,86,6.1,134,1,-21,Arts and Entertainment,0,1,0,YES
+207,1,43,1,2,163,85,6,135,1,-21,Health and Medicine,0,1,1,NO
+219,1,43,1,2,162,84.6,6.9,136,1,-21,Health and Medicine,0,1,1,NO
+231,1,43,0,2,161,84.05714286,6.8,137,1,-21,Health and Medicine,0,1,0,NO
+243,1,43,1,2,167,83.51428571,6.7,138,1,-21,Health and Medicine,0,1,1,NO
+255,1,43,1,2,166,82.97142857,6.6,139,1,-21,Education,0,1,0,YES
+267,1,43,0,2,165,82.42857143,6.5,140,1,-21,Arts and Entertainment,1,1,0,YES
+279,1,43,0,2,164,81.88571429,6.4,141,1,-21,"Farming, Forestry and Fishing",1,1,0,YES
+303,1,43,1,2,163,81.34285714,6.3,142,1,-21,Health and Medicine,1,1,1,NO
+344,1,43,1,2,162,97,6.2,143,1,-21,Community and Social Services,1,1,1,NO
+385,1,43,1,2,161,97,6.1,144,1,-21,Education,1,1,1,YES
+426,1,43,1,2,167,96,6,145,1,-21,Community and Social Services,1,1,1,YES
+467,1,43,0,2,166,95,6.9,146,1,-21,Community and Social Services,1,1,1,YES
+508,1,43,1,2,165,89,6.8,147,1,-21,Architecture and Engineering,1,1,1,NO
+549,1,43,1,2,164,89,6.7,148,1,-21,Health and Medicine,1,1,1,NO
+590,1,43,1,2,163,89,6.6,149,1,-21,Education,1,1,1,YES
+631,1,43,1,2,162,88,6.5,150,1,-21,Health and Medicine,0,1,1,NO
+672,0,43,0,2,162,62,9,151,0,-21,Health and Medicine,1,1,1,NO
+713,0,43,1,2,161,63,9,152,0,-21,Health and Medicine,1,1,0,NO
+754,0,43,1,2,167,64,9,153,0,-21,Community and Social Services,0,1,0,NO
+795,0,43,1,2,166,57,8.5,154,0,-21,Health and Medicine,0,1,0,NO
+836,0,43,1,2,165,58,8.4,155,0,-21,Sales and Business Management,1,1,0,YES
+877,0,43,0,2,164,59,8.3,156,0,-21,Education,0,1,1,YES
+1014,0,43,0,2,163,60,8.3,157,0,-21,Health and Medicine,1,1,0,NO
+1055,0,43,1,2,162,61,9,158,0,-21,Arts and Entertainment,0,1,0,YES
+1094,0,43,1,2,161,62,9,159,0,-21,Community and Social Services,1,1,1,YES
+1133,0,43,1,2,167,63,9,160,0,-21,Arts and Entertainment,0,1,0,YES
+1172,0,43,1,2,166,64,9,161,0,-21,Education,0,1,1,YES
+1211,0,43,1,2,165,65,8.5,162,0,-21,Education,0,1,0,NO
+1250,0,43,0,2,164,66,8.4,163,0,-21,Sales and Business Management,0,1,0,YES
+1289,0,43,1,2,163,67,8.3,164,0,-21,Arts and Entertainment,0,1,0,YES
+1337,0,43.1,1,2,162,57,8.3,165,0,-21.2,Health and Medicine,0,1,0,YES
+1338,0,43.5,1,2,161,58,9,166,0,-22,Education,0,1,0,NO
+1339,0,43.9,1,2,167,59,9,167,0,-22.8,Community and Social Services,0,1,0,NO
+17,1,44,1,2,161,88,6.4,168,1,-23,Community and Social Services,0,1,0,NO
+55,1,44,1,2,167,87,6.3,169,1,-23,Government,1,1,0,NO
+93,1,44,0,2,166,87,6.2,170,1,-23,Community and Social Services,0,1,0,NO
+196,1,44,0,2,165,86,6.1,171,1,-23,Education,1,1,0,NO
+208,1,44,1,2,164,86,6,172,1,-23,Education,0,1,0,NO
+220,1,44,1,2,163,85,6.9,173,1,-23,"Installation, Repair and Maintenance",1,1,0,NO
+232,1,44,0,2,162,84.6,6.8,174,1,-23,Government,0,1,0,NO
+244,1,44,1,2,161,84.05714286,6.7,175,1,-23,Education,0,1,1,YES
+256,1,44,1,2,167,83.51428571,6.6,176,1,-23,Government,0,1,0,NO
+268,1,44,0,2,166,82.97142857,6.5,177,1,-23,Sales and Business Management,0,1,0,YES
+280,1,44,0,2,165,82.42857143,6.4,178,1,-23,Education,0,1,1,YES
+304,1,44,1,2,164,81.88571429,6.3,179,1,-23,Government,0,1,0,NO
+345,1,44,1,2,163,81.34285714,6.2,180,0,-23,Community and Social Services,0,1,0,NO
+386,1,44,1,2,162,97,6.1,181,0,-23,Community and Social Services,0,0,0,NO
+427,1,44,1,2,161,97,6,182,1,-23,Education,0,0,1,YES
+468,1,44,0,2,167,96,6.5,183,1,-23,Sales and Business Management,0,0,0,YES
+509,1,44,1,2,166,95,6.4,184,1,-23,"Farming, Forestry and Fishing",0,0,0,YES
+550,1,44,1,2,165,89,6.3,185,1,-23,Education,0,0,1,YES
+591,1,44,1,2,164,89,6.2,186,1,-23,Government,0,1,0,NO
+632,1,44,1,2,163,89,6.1,187,1,-23,Government,0,1,1,NO
+673,0,44,0,2,166,60,9,188,0,-23,Education,0,1,1,YES
+714,0,44,1,2,165,61,9,189,0,-23,Education,0,1,0,NO
+755,0,44,0,2,164,62,8.5,190,1,-23,Government,0,1,0,NO
+796,0,44,1,2,163,63,8.4,191,1,-23,Government,0,1,0,YES
+837,0,44,1,2,162,64,8.3,192,1,-23,Education,0,1,0,NO
+878,0,44,0,2,161,57,8.3,193,1,-23,Education,0,1,0,NO
+1015,0,44,0,2,167,58,8,194,1,-23,Government,0,1,0,NO
+1056,0,44,0,2,166,59,8,195,1,-23,Education,0,1,1,YES
+1095,0,44,0,2,165,60,8,196,1,-23,Community and Social Services,0,1,1,YES
+1134,0,44,1,2,164,61,8.3,197,1,-23,Education,0,1,1,YES
+1173,0,44,1,2,163,62,8,198,1,-23,Community and Social Services,0,1,1,YES
+1212,0,44,1,2,162,63,8,199,1,-23,Sales and Business Management,0,1,1,NO
+1251,0,44,0,2,161,64,8,200,0,-23,"Farming, Forestry and Fishing",0,1,1,YES
+1290,0,44,1,2,167,65,8.3,201,0,-23,Education,0,1,1,YES
+1340,0,44.3,1,2,166,66,8,202,0,-23.6,Law and Public Policy,0,1,1,NO
+1341,0,44.7,1,2,165,67,8,203,0,-24.4,Health and Medicine,0,1,1,NO
+18,1,45,1,2,162,88,6,204,1,-25,Health and Medicine,0,1,1,NO
+56,1,45,1,2,161,88,6.9,205,1,-25,Health and Medicine,0,1,1,NO
+94,1,45,0,2,167,87,6.8,206,1,-25,Health and Medicine,0,0,1,NO
+197,1,45,0,2,166,87,6.7,207,1,-25,Health and Medicine,0,1,1,NO
+209,1,45,1,2,165,86,6.6,208,1,-25,Education,0,0,0,YES
+221,1,45,1,2,164,86,6.5,209,1,-25,Sales and Business Management,0,1,1,NO
+233,1,45,0,2,163,85,6.4,210,1,-25,Community and Social Services,0,0,1,YES
+245,1,45,0,2,162,84.6,6.3,211,0,-25,Education,0,1,0,NO
+257,1,45,1,2,161,84.05714286,6.2,212,0,-25,Education,0,0,0,YES
+269,1,45,1,2,167,83.51428571,6.1,213,0,-25,Community and Social Services,0,1,1,YES
+281,1,45,0,2,166,82.97142857,6,214,0,-25,Education,0,0,0,YES
+305,1,45,1,2,165,82.42857143,6.9,215,0,-25,Arts and Entertainment,0,1,0,YES
+346,1,45,1,2,164,81.88571429,6.8,216,0,-25,Health and Medicine,0,0,0,NO
+387,1,45,1,2,163,81.34285714,6.7,217,0,-25,Sales and Business Management,0,1,1,YES
+428,1,45,1,2,162,97,6.6,218,0,-25,Health and Medicine,0,1,1,NO
+469,1,45,0,2,161,97,6.5,219,0,-25,Arts and Entertainment,0,1,0,NO
+510,1,45,1,2,167,96,6.4,220,0,-25,Education,0,1,0,YES
+551,1,45,0,2,166,95,6.3,221,0,-25,Education,0,1,1,YES
+592,1,45,1,2,165,89,6.2,222,0,-25,Education,0,1,0,YES
+633,1,45,1,2,164,89,6.1,223,0,-25,"Installation, Repair and Maintenance",0,1,0,NO
+674,0,45,0,2,164,68,8,224,1,-25,Education,0,1,0,YES
+715,0,45,1,2,163,69,8.3,225,1,-25,Health and Medicine,0,1,0,NO
+756,0,45,0,2,162,60,8,226,1,-25,Education,0,1,0,YES
+797,0,45,1,2,161,61,8,227,0,-25,Community and Social Services,0,1,0,NO
+838,0,45,1,2,167,62,8,228,0,-25,Education,0,1,0,NO
+879,0,45,0,2,166,63,8.3,229,0,-25,Arts and Entertainment,1,1,0,NO
+1016,0,45,0,2,165,64,8,230,0,-25,Community and Social Services,0,1,0,NO
+1057,0,45,1,2,164,57,8,231,0,-25,Law and Public Policy,0,1,0,NO
+1096,0,45,0,2,163,58,8,232,0,-25,Law and Public Policy,0,1,0,NO
+1135,0,45,1,2,162,59,7.5,233,0,-25,Law and Public Policy,0,1,0,NO
+1174,0,45,1,2,161,60,7.4,234,0,-25,Health and Medicine,0,1,1,NO
+1213,0,45,0,2,167,61,7.3,235,0,-25,Health and Medicine,0,1,0,NO
+1252,0,45,0,2,166,62,7,236,0,-25,Education,0,1,0,YES
+1291,0,45,1,2,165,63,7,40,0,-25,Sales and Business Management,0,1,0,YES
+1342,0,45.1,1,2,164,64,7,41,1,-25.2,Education,0,1,1,YES
+1343,0,45.5,1,2,163,65,7,42,1,-26,Sales and Business Management,0,1,0,YES
+1344,0,45.9,1,2,162,66,7,43,1,-26.8,Sales and Business Management,0,1,0,YES
+19,1,46,1,2,163,89,6,44,0,-27,Education,0,1,0,NO
+57,1,46,0,2,162,88,6.9,45,0,-27,Education,0,1,1,YES
+95,1,46,0,2,161,88,6.8,46,0,-27,Education,0,1,0,NO
+198,1,46,0,2,167,87,6.7,47,0,-27,Sales and Business Management,0,1,0,YES
+210,1,46,1,2,166,87,6.6,48,0,-27,Education,0,1,0,NO
+222,1,46,1,2,165,86,6.5,49,0,-27,Education,0,1,0,NO
+234,1,46,0,2,164,86,6.4,50,0,-27,Education,0,1,1,YES
+246,1,46,0,3,163,85,6.3,51,0,-27,Health and Medicine,0,1,1,NO
+258,1,46,1,3,162,84.6,6.2,52,0,-27,Community and Social Services,0,1,1,YES
+270,1,46,1,3,161,84.05714286,6.1,53,0,-27,Education,0,1,1,YES
+282,1,46,0,3,167,83.51428571,6,54,1,-27,Health and Medicine,0,1,1,NO
+306,1,46,1,3,166,82.97142857,6.5,55,1,-27,Sales and Business Management,0,1,1,NO
+347,1,46,0,3,165,82.42857143,6.4,56,1,-27,Education,0,1,1,YES
+388,1,46,1,3,164,81.88571429,6.3,57,1,-27,Arts and Entertainment,1,1,0,NO
+429,1,46,1,3,163,81.34285714,6.2,58,1,-27,Community and Social Services,0,1,1,YES
+470,1,46,0,3,162,82,6.1,59,1,-27,Health and Medicine,0,1,0,NO
+511,1,46,1,3,161,83,6,60,1,-27,Education,1,1,0,YES
+552,1,46,0,3,167,84,6.9,61,1,-27,Health and Medicine,1,1,0,NO
+593,1,46,1,3,166,85,6.8,62,1,-27,Architecture and Engineering,1,1,1,NO
+634,1,46,1,3,165,86,6.7,63,1,-27,Education,1,1,0,YES
+675,0,46,0,3,161,67,7,64,1,-27,Sales and Business Management,0,1,0,YES
+716,0,46,0,3,167,57,7,65,1,-27,Sales and Business Management,0,1,0,YES
+757,0,46,0,3,166,58,7,66,1,-27,Health and Medicine,0,1,0,NO
+798,0,46,1,3,165,59,7,67,1,-27,Health and Medicine,0,1,1,NO
+839,0,46,0,3,164,60,7,68,1,-27,Health and Medicine,0,1,1,NO
+880,0,46,0,3,163,61,7.5,69,1,-27,Education,0,1,0,NO
+1017,0,46,1,3,162,62,7.4,70,1,-27,Education,0,1,0,NO
+1058,0,46,1,3,161,63,7.3,71,1,-27,Sales and Business Management,0,1,1,NO
+1097,0,46,0,3,167,64,7,72,1,-27,Sales and Business Management,0,1,1,NO
+1136,0,46,1,3,166,57,7,73,1,-27,Sales and Business Management,1,1,1,NO
+1175,0,46,1,3,165,58,7,74,1,-27,Sales and Business Management,1,1,1,YES
+1214,0,46,0,3,164,59,7,75,1,-27,Sales and Business Management,1,1,1,NO
+1253,0,46,0,3,163,60,7,76,1,-27,Health and Medicine,1,1,1,NO
+1292,0,46,1,3,162,61,7,77,1,-27,Health and Medicine,1,1,1,NO
+1345,0,46.3,1,3,161,62,7,78,1,-27.6,Health and Medicine,1,1,1,NO
+1346,0,46.7,1,3,167,63,7,79,1,-28.4,Education,1,1,0,NO
+20,1,47,1,3,164,87,6.6,80,1,-29,Education,1,1,0,NO
+58,1,47,0,3,163,88,6.5,81,1,-29,Sales and Business Management,1,1,1,NO
+96,1,47,0,3,162,89,6.4,82,1,-29,Community and Social Services,1,1,1,YES
+199,1,47,0,3,161,90,6.3,83,0,-29,Government,1,1,1,YES
+211,1,47,0,3,167,96,6.2,84,0,-29,Education,0,1,0,YES
+223,1,47,1,3,166,95,6.1,85,0,-29,Education,0,1,1,YES
+235,1,47,1,3,165,89,6,86,0,-29,Education,1,1,1,YES
+247,1,47,0,3,164,89,6.9,87,0,-29,Education,0,1,1,YES
+259,1,47,1,3,163,89,6.8,88,0,-29,Education,1,1,1,YES
+271,1,47,1,3,162,88,6.7,89,0,-29,Architecture and Engineering,0,1,0,YES
+283,1,47,1,3,161,88,6.6,90,0,-29,Government,1,1,0,NO
+307,1,47,1,3,167,87,6.5,91,0,-29,Sales and Business Management,0,1,1,YES
+348,1,47,0,3,166,87,6.4,92,0,-29,Education,0,1,1,YES
+389,1,47,1,3,165,86,6.3,93,0,-29,Government,0,1,0,NO
+430,1,47,1,3,164,86,6.2,94,0,-29,Community and Social Services,0,1,0,NO
+471,1,47,0,3,163,85,6.1,95,0,-29,Education,0,1,0,NO
+512,1,47,0,3,162,84.6,6,96,0,-29,Government,0,1,0,NO
+553,1,47,0,3,161,84.05714286,6.9,97,0,-29,Community and Social Services,0,1,1,NO
+594,1,47,1,3,167,83.51428571,6.8,98,0,-29,Government,0,0,0,NO
+635,1,47,0,3,166,82.97142857,6.7,99,0,-29,Government,0,0,0,NO
+676,0,47,0,3,166,64,7,100,1,-29,Sales and Business Management,1,1,0,YES
+717,0,47,1,3,165,65,7,101,1,-29,Education,1,1,1,YES
+758,0,47,0,3,164,66,7.5,102,1,-29,Government,1,1,0,YES
+799,0,47,1,3,163,67,7.4,103,0,-29,Education,0,1,1,YES
+840,0,47,0,3,162,68,7.3,104,0,-29,Sales and Business Management,0,1,0,YES
+881,0,47,1,3,161,69,7,105,0,-29,Sales and Business Management,1,1,1,YES
+1018,0,47,1,3,167,60,7,106,0,-29,Government,0,1,0,NO
+1059,0,47,1,3,166,61,7,107,1,-29,Government,1,1,0,NO
+1098,0,47,0,3,165,62,7,108,1,-29,Government,0,1,0,NO
+1137,0,47,1,3,164,63,7,109,1,-29,Government,1,1,0,NO
+1176,0,47,1,3,163,64,7,110,0,-29,Education,0,1,1,YES
+1215,0,47,0,3,162,57,7,111,0,-29,Architecture and Engineering,0,1,1,NO
+1254,0,47,0,3,161,58,7,112,0,-29,Architecture and Engineering,0,1,1,NO
+1293,0,47,1,3,167,59,7,113,0,-29,Sales and Business Management,0,1,1,NO
+1347,0,47.1,1,3,166,60,7,114,0,-29.2,Sales and Business Management,0,1,1,NO
+1348,0,47.5,1,3,165,61,7.5,115,0,-30,Education,0,1,1,YES
+1349,0,47.9,0,3,164,62,7.4,116,0,-30.8,Health and Medicine,0,1,1,NO
+21,1,48,1,3,165,82.42857143,6.6,117,0,-31,Education,0,0,1,YES
+59,1,48,0,3,164,81.88571429,6.5,118,0,-31,Health and Medicine,0,0,0,NO
+97,1,48,0,3,163,81.34285714,6.4,119,0,-31,Education,0,0,1,YES
+200,1,48,0,3,162,82,6.3,120,0,-31,Education,0,1,0,NO
+212,1,48,0,3,161,83,6.2,121,0,-31,Education,0,1,1,YES
+224,1,48,1,3,167,84,6.1,122,0,-31,Community and Social Services,0,1,1,YES
+236,1,48,1,3,166,85,6,123,1,-31,Education,0,1,1,YES
+248,1,48,0,3,165,86,6.5,124,1,-31,Sales and Business Management,0,0,0,YES
+260,1,48,1,3,164,87,6.4,125,1,-31,Education,0,1,1,YES
+272,1,48,1,3,163,88,6.3,126,1,-31,Education,0,0,1,YES
+284,1,48,1,3,162,89,6.2,127,1,-31,Education,0,1,1,YES
+308,1,48,0,3,161,90,6.1,128,1,-31,Education,0,0,0,NO
+349,1,48,0,3,167,96,6,129,1,-31,Education,0,1,1,YES
+390,1,48,1,3,166,95,6.9,130,1,-31,"Installation, Repair and Maintenance",0,0,0,NO
+431,1,48,0,3,165,89,6.8,131,1,-31,Community and Social Services,0,1,1,NO
+472,1,48,0,3,164,89,6.7,132,1,-31,Sales and Business Management,0,0,0,YES
+513,1,48,1,3,163,89,6.6,133,1,-31,Health and Medicine,0,1,1,NO
+554,1,48,0,3,162,88,6.5,134,1,-31,Sales and Business Management,0,0,1,NO
+595,1,48,1,3,161,88,6.4,135,1,-31,Education,0,1,1,YES
+636,1,48,0,3,167,87,6.3,136,0,-31,Architecture and Engineering,0,1,1,YES
+677,0,48,1,3,163,63,7.3,137,0,-31,Health and Medicine,0,1,1,NO
+718,0,48,1,3,162,64,7,138,0,-31,Health and Medicine,0,1,1,NO
+759,0,48,1,3,161,65,7,139,0,-31,Education,0,1,1,YES
+800,0,48,1,3,167,66,7,140,0,-31,Sales and Business Management,0,1,1,YES
+841,0,48,0,3,166,67,7,141,0,-31,Sales and Business Management,0,1,0,YES
+882,0,48,1,3,165,57,7,142,0,-31,Sales and Business Management,0,1,1,YES
+1019,0,48,1,3,164,58,7,143,0,-31,Sales and Business Management,0,1,1,YES
+1060,0,48,1,3,163,59,7,144,0,-31,Sales and Business Management,0,1,1,YES
+1099,0,48,1,3,162,60,7,145,0,-31,Health and Medicine,0,1,1,NO
+1138,0,48,1,3,161,61,7,146,0,-31,Health and Medicine,0,1,1,NO
+1177,0,48,1,3,167,62,7,147,0,-31,Health and Medicine,0,1,1,NO
+1216,0,48,0,3,166,63,7.5,148,0,-31,Health and Medicine,0,1,1,NO
+1255,0,48,1,3,165,64,7.4,149,0,-31,"Farming, Forestry and Fishing",0,1,1,YES
+1294,0,48,0,3,164,57,7.3,150,0,-31,Education,0,1,1,YES
+22,1,49,1,3,166,87,6.2,151,0,-33,Community and Social Services,0,1,1,NO
+60,1,49,0,3,165,86,6.1,152,0,-33,Government,0,1,1,YES
+98,1,49,0,3,164,86,6,153,0,-33,Education,0,1,1,YES
+201,1,49,1,3,163,85,6.9,154,0,-33,Government,0,1,0,NO
+213,1,49,0,3,162,84.6,6.8,155,0,-33,Government,0,1,0,NO
+225,1,49,1,3,161,84.05714286,6.7,156,0,-33,Architecture and Engineering,1,1,1,NO
+237,1,49,1,3,167,83.51428571,6.6,157,0,-33,Government,0,1,0,NO
+249,1,49,1,3,166,82.97142857,6.5,158,0,-33,Architecture and Engineering,1,1,0,YES
+261,1,49,0,3,165,82.42857143,6.4,159,0,-33,Community and Social Services,0,1,0,NO
+273,1,49,1,3,164,81.88571429,6.3,160,0,-33,Education,0,1,0,YES
+285,1,49,1,3,163,81.34285714,6.2,161,0,-33,Government,0,1,0,NO
+309,1,49,1,3,162,82,6.1,162,0,-33,Government,0,1,0,NO
+350,1,49,0,3,161,83,6,163,0,-33,Education,0,1,0,NO
+391,1,49,1,3,167,84,6.9,164,0,-33,"Installation, Repair and Maintenance",0,1,1,NO
+432,1,49,0,3,166,85,6.8,165,0,-33,Government,0,1,0,YES
+473,1,49,1,3,165,86,6.7,166,0,-33,Sales and Business Management,0,1,1,YES
+514,1,49,1,3,164,87,6.6,167,0,-33,Education,0,1,1,YES
+555,1,49,1,3,163,88,6.5,168,0,-33,Architecture and Engineering,1,1,0,NO
+596,1,49,1,3,162,89,6.4,169,0,-33,Education,0,1,1,YES
+637,1,49,0,3,161,90,6.3,170,0,-33,Government,0,1,0,NO
+678,0,49,1,3,163,58,7,171,0,-33,Sales and Business Management,0,1,1,NO
+719,0,49,1,3,162,59,7,172,0,-33,Sales and Business Management,0,1,1,NO
+760,0,49,1,3,161,60,7,173,1,-33,Community and Social Services,0,1,1,YES
+801,0,49,1,3,167,61,7,174,1,-33,Sales and Business Management,0,1,1,NO
+842,0,49,0,3,166,62,7,175,1,-33,Government,0,1,0,NO
+883,0,49,1,3,165,63,7,176,1,-33,Government,0,1,0,NO
+1020,0,49,1,3,164,64,7,177,1,-33,Government,0,1,0,NO
+1061,0,49,0,3,163,65,7,40,1,-33,Sales and Business Management,0,1,0,YES
+1100,0,49,1,3,162,66,7,41,1,-33,Sales and Business Management,0,1,1,YES
+1139,0,49,1,3,161,67,7,42,1,-33,Government,0,1,0,NO
+1178,0,49,1,3,167,68,7.5,43,1,-33,Education,0,1,0,NO
+1217,0,49,0,3,166,69,7.4,44,1,-33,Government,0,1,0,NO
+1256,0,49,1,3,165,60,7.3,45,0,-33,Education,0,1,1,YES
+1295,0,49,1,3,164,61,7,46,0,-33,Sales and Business Management,0,1,1,YES
+23,1,50,0,3,167,96,6.2,47,0,-35,Education,0,1,1,YES
+61,1,50,0,3,166,95,6.1,48,0,-35,"Installation, Repair and Maintenance",1,1,1,NO
+99,1,50,1,3,165,89,6,49,1,-35,Health and Medicine,1,1,1,NO
+202,1,50,1,3,164,89,6.5,50,1,-35,Architecture and Engineering,1,1,0,NO
+214,1,50,0,3,163,89,6.4,51,1,-35,Community and Social Services,1,1,1,YES
+226,1,50,1,3,162,88,6.3,52,1,-35,Health and Medicine,1,1,1,NO
+238,1,50,1,4,161,88,6.2,53,1,-35,Community and Social Services,1,1,1,YES
+250,1,50,1,4,167,87,6.1,54,1,-35,Community and Social Services,1,1,1,NO
+262,1,50,0,4,166,87,6,55,1,-35,Education,1,1,0,NO
+274,1,50,0,4,165,86,6.9,56,1,-35,"Farming, Forestry and Fishing",1,1,1,NO
+286,1,50,1,4,164,86,6.8,57,1,-35,Health and Medicine,1,1,1,NO
+310,1,50,1,4,163,85,6.7,58,1,-35,Health and Medicine,0,1,1,NO
+351,1,50,1,4,162,84.6,6.6,59,1,-35,Education,0,1,0,YES
+392,1,50,1,4,161,84.05714286,6.5,60,1,-35,Health and Medicine,1,1,1,NO
+433,1,50,0,4,167,83.51428571,6.4,61,1,-35,Health and Medicine,0,1,1,NO
+474,1,50,1,4,166,82.97142857,6.3,62,0,-35,Education,1,1,0,NO
+515,1,50,1,4,165,82.42857143,6.2,63,0,-35,Architecture and Engineering,0,1,1,NO
+556,1,50,1,4,164,81.88571429,6.1,64,0,-35,Community and Social Services,1,1,0,NO
+597,1,50,1,4,163,81.34285714,6,65,0,-35,Health and Medicine,0,1,1,NO
+638,1,50,0,4,162,82,6.9,66,0,-35,Community and Social Services,0,1,0,NO
+679,0,50,1,4,163,62,7,67,0,-35,Education,0,1,0,YES
+720,0,50,1,4,162,63,7,68,0,-35,Architecture and Engineering,0,1,1,NO
+761,0,50,1,4,161,64,7,69,1,-35,Architecture and Engineering,0,1,1,NO
+802,0,50,1,4,167,57,7,70,1,-35,Sales and Business Management,0,1,1,YES
+843,0,50,0,4,166,58,7,71,1,-35,Sales and Business Management,0,1,0,YES
+884,0,50,1,4,165,59,7,72,0,-35,"Installation, Repair and Maintenance",0,1,0,NO
+1021,0,50,1,4,164,60,7,73,0,-35,"Installation, Repair and Maintenance",0,1,0,NO
+1062,0,50,0,4,163,61,7,74,0,-35,"Installation, Repair and Maintenance",0,1,0,NO
+1101,0,50,1,4,162,62,7,75,0,-35,Health and Medicine,0,1,1,NO
+1140,0,50,1,4,161,63,7.5,76,0,-35,Education,0,1,0,YES
+1179,0,50,0,4,167,64,7.4,77,0,-35,Education,0,1,1,YES
+1218,0,50,0,4,166,65,7.3,78,0,-35,Sales and Business Management,0,1,1,YES
+1257,0,50,1,4,165,66,7,79,0,-35,Education,0,1,0,YES
+1296,0,50,1,4,164,67,7,80,0,-35,Education,0,1,1,YES
+24,1,51,0,4,161,83,6.8,81,0,-37,Education,0,1,1,YES
+62,1,51,0,4,167,84,6.7,82,0,-37,Sales and Business Management,0,1,0,YES
+100,1,51,1,4,166,85,6.6,83,0,-37,Education,0,1,0,NO
+203,1,51,1,4,165,86,6.5,84,0,-37,Sales and Business Management,0,0,1,YES
+215,1,51,1,4,164,87,6.4,85,0,-37,Education,0,0,1,YES
+227,1,51,0,4,163,88,6.3,86,0,-37,Education,0,0,1,YES
+239,1,51,1,4,162,89,6.2,87,0,-37,Education,0,0,0,YES
+251,1,51,1,4,161,90,6.1,88,0,-37,Community and Social Services,0,0,1,YES
+263,1,51,0,4,167,96,6,89,0,-37,Community and Social Services,0,1,1,YES
+275,1,51,1,4,166,95,6.9,90,0,-37,Education,0,1,1,YES
+287,1,51,1,4,165,89,6.8,91,0,-37,Health and Medicine,0,1,1,NO
+311,1,51,1,4,164,89,6.7,92,0,-37,Sales and Business Management,0,1,1,NO
+352,1,51,1,4,163,89,6.6,93,0,-37,Health and Medicine,0,0,1,NO
+393,1,51,1,1,162,88,6.5,94,0,-37,Sales and Business Management,0,1,1,NO
+434,1,51,0,1,161,88,6.4,95,0,-37,Community and Social Services,0,0,1,YES
+475,1,51,1,1,167,87,6.3,96,0,-37,Health and Medicine,0,1,1,NO
+516,1,51,1,1,166,87,6.2,97,0,-37,Health and Medicine,0,0,1,NO
+557,1,51,1,1,165,86,6.1,98,0,-37,Health and Medicine,0,1,1,NO
+598,1,51,1,1,164,86,6,99,0,-37,Education,0,0,1,YES
+639,1,51,0,1,163,85,5.9,100,0,-37,Education,0,1,0,YES
+680,0,51,1,1,163,57,7,101,0,-37,Education,0,1,1,YES
+721,0,51,0,1,162,58,7,102,0,-37,Sales and Business Management,1,1,1,YES
+762,0,51,1,1,161,59,7,103,0,-37,Education,1,1,1,YES
+803,0,51,1,1,167,60,7,104,0,-37,Sales and Business Management,1,1,0,YES
+844,0,51,0,1,166,61,7,105,0,-37,Sales and Business Management,1,1,0,YES
+885,0,51,1,1,165,62,7,106,0,-37,Sales and Business Management,1,1,1,YES
+903,0,51,1,1,164,63,7,107,0,-37,Sales and Business Management,1,1,1,NO
+911,0,51,0,1,163,64,7,108,0,-37,Sales and Business Management,1,1,1,NO
+919,0,51,1,1,162,57,6.9,109,0,-37,Community and Social Services,1,0,1,YES
+927,0,51,0,1,161,58,7.4,110,0,-37,Community and Social Services,0,0,1,NO
+935,0,51,1,1,167,59,7.3,111,0,-37,Sales and Business Management,0,0,1,NO
+943,0,51,0,1,166,60,7,112,0,-37,Sales and Business Management,1,0,1,YES
+951,0,51,1,1,165,61,7,113,0,-37,Health and Medicine,0,0,1,NO
+959,0,51,0,1,164,62,7,114,0,-37,Law and Public Policy,1,0,0,YES
+967,0,51,1,1,163,63,7,115,1,-37,Health and Medicine,0,0,1,NO
+975,0,51,0,1,162,64,7,116,1,-37,Health and Medicine,1,0,0,NO
+983,0,51,1,1,161,65,7,117,1,-37,Health and Medicine,0,0,1,NO
+991,0,51,1,1,167,66,7,118,1,-37,Health and Medicine,0,0,1,NO
+1022,0,51,0,1,166,67,7,119,1,-37,Architecture and Engineering,0,0,1,NO
+1063,0,51,0,1,165,68,7,120,1,-37,Sales and Business Management,0,0,0,YES
+1102,0,51,1,1,164,69,7,121,1,-37,Sales and Business Management,0,0,0,YES
+1141,0,51,1,2,163,60,7.5,122,1,-37,Health and Medicine,0,0,1,NO
+1180,0,51,0,2,162,61,7.4,123,1,-37,Education,0,0,1,YES
+1219,0,51,0,2,161,62,7.3,124,1,-37,Sales and Business Management,0,1,1,YES
+1258,0,51,1,2,167,63,7,125,0,-37,Education,0,1,1,YES
+1297,0,51,1,2,166,64,7,126,0,-37,Sales and Business Management,0,1,0,YES
+25,1,52,0,2,162,84.6,5.8,127,0,-39,Law and Public Policy,0,0,0,NO
+63,1,52,0,2,161,84.05714286,5.7,128,0,-39,Education,0,1,1,YES
+101,1,52,1,2,167,83.51428571,5.6,129,0,-39,Education,0,0,1,YES
+312,1,52,1,2,166,82.97142857,5.5,130,0,-39,Education,0,1,0,YES
+353,1,52,1,2,165,82.42857143,5.4,131,0,-39,Law and Public Policy,0,1,1,NO
+394,1,52,1,2,164,81.88571429,5.3,132,0,-39,Health and Medicine,0,1,1,NO
+435,1,52,0,2,163,81.34285714,5.2,133,0,-39,Health and Medicine,0,1,1,NO
+476,1,52,1,2,162,82,5.1,134,0,-39,Health and Medicine,0,1,1,NO
+517,1,52,0,2,161,83,5,135,0,-39,Health and Medicine,0,1,1,NO
+558,1,52,1,2,167,84,4.9,136,0,-39,Health and Medicine,0,1,1,NO
+599,1,52,1,2,166,85,5.9,137,0,-39,Health and Medicine,0,1,1,NO
+640,1,52,0,2,165,86,5.8,138,0,-39,Health and Medicine,0,1,1,NO
+681,0,52,1,2,165,57,7,139,0,-39,Education,0,1,0,YES
+722,0,52,0,2,164,58,7,140,0,-39,Education,0,1,1,YES
+763,0,52,1,2,163,59,7,141,1,-39,Sales and Business Management,0,1,0,YES
+804,0,52,1,2,162,60,7,142,1,-39,Sales and Business Management,0,1,0,YES
+845,0,52,0,2,161,61,7,143,1,-39,Sales and Business Management,0,1,0,YES
+886,0,52,0,2,167,62,7,144,1,-39,Sales and Business Management,0,1,0,YES
+904,0,52,1,2,166,63,7,145,1,-39,Education,0,0,1,YES
+912,0,52,0,2,165,64,7,146,1,-39,Sales and Business Management,0,0,1,NO
+920,0,52,0,2,164,65,7.5,147,1,-39,Education,0,0,0,YES
+928,0,52,0,2,163,66,7.4,148,1,-39,Community and Social Services,0,0,1,YES
+936,0,52,1,2,162,67,7.3,149,1,-39,Sales and Business Management,0,0,1,NO
+944,0,52,0,2,161,57,7,150,1,-39,Sales and Business Management,0,0,1,YES
+952,0,52,1,2,167,58,7,151,1,-39,"Installation, Repair and Maintenance",0,0,1,NO
+960,0,52,0,2,166,59,7,152,1,-39,Health and Medicine,0,0,1,NO
+968,0,52,1,2,165,60,7,153,1,-39,Health and Medicine,0,0,1,NO
+976,0,52,0,2,164,61,7,154,1,-39,Education,0,0,1,YES
+984,0,52,1,2,163,62,7,155,1,-39,Sales and Business Management,0,0,1,NO
+992,0,52,1,2,162,63,7,156,1,-39,Education,0,0,1,YES
+1023,0,52,1,2,161,64,7,157,1,-39,Architecture and Engineering,0,0,0,YES
+1064,0,52,0,2,167,57,7,158,1,-39,Sales and Business Management,0,0,1,YES
+1103,0,52,1,2,166,58,7,159,1,-39,Sales and Business Management,0,1,0,YES
+1142,0,52,1,2,165,59,7.5,160,1,-39,Health and Medicine,0,1,1,NO
+1181,0,52,0,2,164,60,7.4,161,1,-39,Health and Medicine,0,1,1,NO
+1220,0,52,0,2,163,61,7.3,162,1,-39,Health and Medicine,0,1,1,NO
+1259,0,52,1,2,162,62,7,163,0,-39,Health and Medicine,0,1,1,NO
+1298,0,52,1,2,161,63,7,164,0,-39,Law and Public Policy,0,1,0,NO
+26,1,53,0,2,164,87,5.7,165,1,-41,Health and Medicine,0,1,1,NO
+64,1,53,0,2,163,88,5.6,166,1,-41,Arts and Entertainment,0,1,0,NO
+102,1,53,1,2,162,89,5.5,167,1,-41,Law and Public Policy,0,1,0,NO
+313,1,53,0,2,161,90,5.4,168,1,-41,Health and Medicine,0,1,1,NO
+354,1,53,1,2,167,96,5.3,169,0,-41,Health and Medicine,0,1,1,NO
+395,1,53,1,2,166,95,5.2,170,0,-41,Health and Medicine,0,1,1,NO
+436,1,53,0,2,165,89,5.1,171,0,-41,Health and Medicine,0,1,1,NO
+477,1,53,1,2,164,89,5,172,0,-41,Architecture and Engineering,0,1,0,YES
+518,1,53,0,2,163,89,4.9,173,0,-41,Health and Medicine,0,1,1,NO
+559,1,53,1,2,162,88,5.9,174,0,-41,Arts and Entertainment,0,1,0,NO
+600,1,53,1,2,161,88,5.8,175,0,-41,Health and Medicine,0,1,1,NO
+641,1,53,0,2,167,87,5.7,176,0,-41,Education,0,1,1,YES
+682,0,53,0,2,167,64,7,177,0,-41,Health and Medicine,0,1,0,NO
+723,0,53,0,2,166,65,7,40,0,-41,Health and Medicine,0,1,0,NO
+764,0,53,1,2,165,66,7,41,1,-41,Health and Medicine,0,1,1,NO
+805,0,53,0,2,164,67,7,42,1,-41,Education,0,1,0,NO
+846,0,53,0,2,163,68,7,43,1,-41,Sales and Business Management,0,0,1,YES
+887,0,53,1,2,162,69,7,44,1,-41,Education,0,0,1,YES
+905,0,53,1,2,161,64,7,45,1,-41,Sales and Business Management,0,1,0,YES
+913,0,53,0,2,167,65,7,46,1,-41,Sales and Business Management,0,0,1,NO
+921,0,53,1,2,166,66,7.5,47,1,-41,Community and Social Services,1,0,1,YES
+929,0,53,1,2,165,67,7.4,48,1,-41,Community and Social Services,0,0,1,YES
+937,0,53,1,2,164,57,7.3,49,1,-41,Health and Medicine,0,0,1,NO
+945,0,53,0,2,163,58,7,50,1,-41,Health and Medicine,0,0,1,NO
+953,0,53,1,2,162,59,7,51,0,-41,Health and Medicine,0,0,1,NO
+961,0,53,0,2,161,60,7,52,0,-41,Health and Medicine,0,0,1,NO
+969,0,53,1,2,167,61,7,53,0,-41,Education,1,0,1,YES
+977,0,53,0,2,166,62,7,54,0,-41,Sales and Business Management,1,0,1,YES
+985,0,53,1,2,165,63,7,55,1,-41,Sales and Business Management,1,1,0,YES
+993,0,53,0,2,164,64,7,56,1,-41,Sales and Business Management,1,0,0,YES
+1024,0,53,1,2,163,57,7,57,1,-41,Sales and Business Management,1,0,0,YES
+1065,0,53,1,2,162,58,7,58,0,-41,Architecture and Engineering,1,1,0,YES
+1104,0,53,1,2,161,59,7,59,0,-41,Health and Medicine,1,1,1,NO
+1143,0,53,1,2,167,60,7.5,60,0,-41,Education,1,1,0,YES
+1182,0,53,0,2,166,61,7.4,61,0,-41,Health and Medicine,1,1,1,NO
+1221,0,53,1,2,165,62,7.3,62,0,-41,Education,1,1,1,YES
+1260,0,53,0,2,164,63,7,63,0,-41,Sales and Business Management,0,1,1,NO
+1299,0,53,0,2,163,64,7,64,0,-41,Education,0,1,1,YES
+27,1,54,0,2,166,87,5.6,65,0,-43,Education,0,1,1,YES
+65,1,54,1,2,165,86,5.5,66,0,-43,Education,0,1,0,YES
+103,1,54,1,2,164,86,5.4,67,0,-43,Health and Medicine,0,1,1,NO
+314,1,54,0,2,163,85,5.3,68,0,-43,Education,0,1,1,YES
+355,1,54,1,2,162,84.6,5.2,69,0,-43,Health and Medicine,1,1,1,NO
+396,1,54,1,2,161,84.05714286,5.1,70,0,-43,Health and Medicine,1,1,1,NO
+437,1,54,0,2,167,83.51428571,5,71,0,-43,Health and Medicine,1,1,0,NO
+478,1,54,0,2,166,82.97142857,4.9,72,0,-43,Health and Medicine,1,1,0,NO
+519,1,54,0,2,165,82.42857143,3.8,73,0,-43,Health and Medicine,1,1,0,NO
+560,1,54,1,2,164,81.88571429,3.8,74,0,-43,Health and Medicine,1,1,1,NO
+601,1,54,0,2,163,81.34285714,6.9,75,0,-43,Health and Medicine,1,1,0,NO
+642,1,54,0,2,162,82,6.8,76,0,-43,Health and Medicine,1,1,0,NO
+683,0,54,1,2,162,65,7,77,0,-43,Sales and Business Management,1,1,1,NO
+724,0,54,0,2,161,66,7,78,0,-43,Architecture and Engineering,0,1,1,NO
+765,0,54,1,2,167,89,7,79,0,-43,Community and Social Services,1,0,1,YES
+806,0,54,0,2,166,77,7,80,0,-43,Sales and Business Management,0,0,0,YES
+847,0,54,1,2,165,76,7,81,0,-43,Health and Medicine,1,0,1,NO
+888,0,54,1,2,164,57,7,82,0,-43,Health and Medicine,0,0,1,NO
+906,0,54,1,2,163,58,7,83,1,-43,Law and Public Policy,0,0,1,YES
+914,0,54,0,2,162,59,7,84,1,-43,Law and Public Policy,0,0,0,NO
+922,0,54,1,2,161,60,6.9,85,1,-43,"Farming, Forestry and Fishing",0,0,0,YES
+930,0,54,1,2,167,61,7.4,86,1,-43,Education,0,0,1,YES
+938,0,54,1,2,166,62,7.3,87,1,-43,Sales and Business Management,0,0,0,YES
+946,0,54,0,2,165,63,7,88,1,-43,Sales and Business Management,0,0,0,YES
+954,0,54,0,2,164,64,7,89,1,-43,Arts and Entertainment,0,0,0,YES
+962,0,54,0,2,163,65,7,90,1,-43,Sales and Business Management,0,0,0,YES
+970,0,54,1,2,162,66,7,91,1,-43,Law and Public Policy,0,0,0,NO
+978,0,54,0,2,161,89,7,92,1,-43,Health and Medicine,0,0,0,NO
+986,0,54,1,2,167,77,7,93,1,-43,Health and Medicine,0,0,1,NO
+994,0,54,0,2,166,76,7,94,1,-43,Health and Medicine,0,1,0,NO
+1025,0,54,1,2,165,57,7,95,1,-43,Education,0,1,1,YES
+1066,0,54,1,2,164,58,7,96,1,-43,Education,0,1,0,NO
+1105,0,54,1,2,163,59,7,97,1,-43,Sales and Business Management,0,1,0,YES
+1144,0,54,1,2,162,60,7.5,98,1,-43,Health and Medicine,0,1,1,NO
+1183,0,54,0,2,161,61,7.4,99,1,-43,Community and Social Services,0,1,0,NO
+1222,0,54,1,2,167,62,7.3,100,1,-43,Sales and Business Management,0,1,0,YES
+1261,0,54,1,2,166,63,7,101,1,-43,Education,0,1,1,YES
+1300,0,54,0,2,165,64,7,102,1,-43,Sales and Business Management,0,1,0,YES
+28,1,55,0,2,161,83,6.7,103,0,-45,Education,1,1,1,YES
+66,1,55,1,2,167,84,6.6,104,0,-45,Health and Medicine,1,1,1,NO
+104,1,55,0,2,166,85,6.5,105,0,-45,Education,0,1,1,YES
+315,1,55,0,2,165,86,6.4,106,0,-45,Community and Social Services,0,1,0,NO
+356,1,55,1,2,164,87,6.3,107,0,-45,Architecture and Engineering,1,1,1,NO
+397,1,55,0,2,163,88,6.2,108,0,-45,Community and Social Services,0,1,1,YES
+438,1,55,0,2,162,89,6.1,109,0,-45,Community and Social Services,1,1,1,NO
+479,1,55,1,2,161,90,6,110,0,-45,Education,0,1,0,YES
+520,1,55,0,2,165,96,6.9,111,0,-45,Health and Medicine,1,1,1,NO
+561,1,55,1,2,164,95,6.8,112,0,-45,Health and Medicine,0,1,1,NO
+602,1,55,0,2,163,89,6.7,113,0,-45,Sales and Business Management,0,1,1,NO
+643,1,55,1,2,162,89,6.6,114,0,-45,Health and Medicine,0,1,1,NO
+684,0,55,1,2,164,65,7,115,1,-45,Education,0,0,0,YES
+725,0,55,1,2,163,66,7,116,1,-45,Arts and Entertainment,0,0,0,YES
+766,0,55,1,2,162,89,7,117,1,-45,Architecture and Engineering,0,0,0,YES
+807,0,55,0,2,161,77,7,118,1,-45,Sales and Business Management,0,0,0,YES
+848,0,55,1,2,167,76,7,119,1,-45,Architecture and Engineering,0,0,0,YES
+889,0,55,1,2,166,57,7,120,1,-45,Sales and Business Management,0,0,0,YES
+907,0,55,0,3,165,58,7,121,1,-45,Architecture and Engineering,0,0,1,NO
+915,0,55,1,3,164,59,7,122,1,-45,Health and Medicine,0,0,1,NO
+923,0,55,1,3,163,60,7.5,123,1,-45,Education,0,0,1,YES
+931,0,55,1,3,162,61,7.4,124,1,-45,Health and Medicine,0,0,1,NO
+939,0,55,1,3,161,62,7.3,125,1,-45,Education,0,0,1,YES
+947,0,55,0,3,167,63,7,126,1,-45,Sales and Business Management,0,0,1,NO
+955,0,55,1,3,166,64,7,127,1,-45,Education,0,0,0,YES
+963,0,55,1,3,165,65,7,128,1,-45,Sales and Business Management,0,0,1,YES
+971,0,55,1,3,164,66,7,129,1,-45,Sales and Business Management,0,0,1,YES
+979,0,55,0,3,163,89,7,130,1,-45,Arts and Entertainment,0,1,0,YES
+987,0,55,1,3,162,77,7,131,1,-45,Sales and Business Management,0,1,1,YES
+995,0,55,0,3,161,76,7,132,1,-45,Health and Medicine,0,1,0,NO
+1026,0,55,1,3,167,57,7,133,1,-45,Health and Medicine,0,1,1,NO
+1067,0,55,1,3,166,58,7,134,1,-45,Health and Medicine,0,1,1,NO
+1106,0,55,1,3,165,59,7,135,1,-45,Health and Medicine,0,1,1,NO
+1145,0,55,0,3,164,60,7.5,136,1,-45,Education,0,1,1,YES
+1184,0,55,0,3,163,61,7.4,137,1,-45,Education,0,1,1,YES
+1223,0,55,1,3,162,62,7.3,138,1,-45,Sales and Business Management,0,1,1,YES
+1262,0,55,1,3,161,63,7,139,1,-45,Education,0,0,0,YES
+1301,0,55,0,3,167,64,7,140,1,-45,Architecture and Engineering,0,0,0,YES
+29,1,56,0,3,161,89,6.5,141,0,-47,Architecture and Engineering,0,0,0,YES
+67,1,56,1,3,167,88,6.4,142,0,-47,Health and Medicine,0,0,1,NO
+105,1,56,1,3,166,88,6.3,143,0,-47,Education,0,0,1,YES
+120,1,56,1,3,165,87,6.2,144,0,-47,Health and Medicine,0,0,1,NO
+127,1,56,0,3,164,87,6.1,145,0,-47,Health and Medicine,0,0,0,NO
+134,1,56,1,3,163,86,6,146,1,-47,Education,0,0,1,YES
+141,1,56,1,3,162,86,5.9,147,1,-47,Health and Medicine,0,0,1,NO
+148,1,56,1,3,161,85,5.8,148,1,-47,Architecture and Engineering,0,0,1,NO
+155,1,56,1,3,167,84.6,5.7,149,1,-47,Education,0,0,1,YES
+162,1,56,0,3,166,84.05714286,5.6,150,0,-47,Education,0,0,1,YES
+169,1,56,1,3,165,83.51428571,5.5,151,0,-47,Architecture and Engineering,0,0,0,YES
+176,1,56,1,3,164,82.97142857,5.4,152,0,-47,Architecture and Engineering,0,0,0,YES
+183,1,56,1,3,163,82.42857143,5.3,153,0,-47,Health and Medicine,0,0,1,NO
+190,1,56,1,3,162,81.88571429,5.2,154,0,-47,Health and Medicine,0,0,1,NO
+316,1,56,0,3,161,81.34285714,5.1,155,0,-47,Health and Medicine,0,0,0,YES
+357,1,56,1,3,167,82,5,156,0,-47,Arts and Entertainment,1,0,0,YES
+398,1,56,0,3,166,83,4.9,157,0,-47,Health and Medicine,0,0,0,NO
+439,1,56,1,3,165,84,5.9,158,0,-47,Health and Medicine,0,1,1,NO
+480,1,56,1,3,164,85,5.8,159,0,-47,Community and Social Services,0,1,1,YES
+521,1,56,1,3,163,86,5.7,160,0,-47,Community and Social Services,0,1,0,NO
+562,1,56,1,3,162,87,5.6,161,0,-47,Community and Social Services,0,1,0,NO
+603,1,56,0,3,161,88,5.5,162,0,-47,Community and Social Services,0,1,1,YES
+644,1,56,1,3,150,89,5.4,163,0,-47,Health and Medicine,0,1,1,NO
+685,0,56,1,3,166,65,7,164,1,-47,Education,0,0,1,YES
+726,0,56,1,3,165,66,7,165,1,-47,Sales and Business Management,0,0,1,YES
+767,0,56,1,3,164,89,7,166,1,-47,Education,0,0,0,YES
+808,0,56,0,3,163,77,7,167,1,-47,Sales and Business Management,1,0,1,YES
+849,0,56,1,3,162,76,7,168,1,-47,Sales and Business Management,1,0,1,YES
+890,0,56,1,3,161,57,7,169,1,-47,Sales and Business Management,1,0,1,YES
+908,0,56,0,3,167,58,7,170,1,-47,Sales and Business Management,1,0,1,YES
+916,0,56,1,3,166,59,7,171,1,-47,Sales and Business Management,1,0,1,YES
+924,0,56,1,3,165,60,7.5,172,1,-47,Education,1,0,1,YES
+932,0,56,1,3,164,61,7.4,173,1,-47,Community and Social Services,1,0,1,YES
+940,0,56,1,3,163,62,7.3,174,1,-47,Sales and Business Management,1,0,1,NO
+948,0,56,0,3,162,63,7,175,1,-47,Sales and Business Management,1,0,1,NO
+956,0,56,1,3,161,64,7,176,1,-47,Health and Medicine,1,0,1,NO
+964,0,56,1,3,167,65,7,177,1,-47,Health and Medicine,0,1,1,NO
+972,0,56,1,3,166,66,7,40,1,-47,Health and Medicine,0,1,1,NO
+980,0,56,0,3,165,89,7,41,1,-47,Law and Public Policy,1,1,1,NO
+988,0,56,0,3,164,77,7,42,1,-47,Law and Public Policy,0,1,1,NO
+996,0,56,0,3,163,76,7,43,1,-47,Law and Public Policy,1,1,1,NO
+1027,0,56,0,3,162,57,7,44,1,-47,Health and Medicine,0,1,1,NO
+1068,0,56,1,3,161,58,7,45,1,-47,Architecture and Engineering,1,1,0,YES
+1107,0,56,1,3,167,59,7,46,1,-47,Architecture and Engineering,0,1,0,NO
+1146,0,56,0,3,166,60,7.5,47,1,-47,Health and Medicine,0,1,0,NO
+1185,0,56,0,3,165,61,7.4,48,1,-47,Education,0,0,0,NO
+1224,0,56,1,3,164,62,7.3,49,1,-47,Architecture and Engineering,0,0,0,NO
+1263,0,56,1,3,163,63,7,50,1,-47,Education,0,0,1,YES
+1302,0,56,0,3,162,64,7,51,1,-47,Architecture and Engineering,0,0,0,YES
+30,1,57,0,3,151,90,5.3,52,0,-49,Government,0,1,1,YES
+68,1,57,1,3,152,96,5.2,53,0,-49,Government,0,1,1,YES
+106,1,57,1,3,153,95,5.1,54,0,-49,Government,0,1,1,NO
+317,1,57,1,3,154,89,5,55,0,-49,Government,0,1,1,YES
+358,1,57,1,3,155,89,4.9,56,0,-49,Government,0,1,1,YES
+399,1,57,0,3,156,89,5.9,57,0,-49,Community and Social Services,0,1,1,YES
+440,1,57,1,3,157,88,5.8,58,0,-49,Government,0,1,1,NO
+481,1,57,1,3,158,88,5.7,59,0,-49,Government,0,1,1,YES
+522,1,57,1,3,159,87,5.6,60,0,-49,Government,0,1,1,YES
+563,1,57,1,3,150,87,5.5,61,0,-49,Education,0,1,0,YES
+604,1,57,0,3,151,86,5.4,62,0,-49,Government,0,1,0,NO
+645,1,57,1,3,152,86,5.3,63,0,-49,Education,0,1,1,YES
+686,0,57,1,3,161,65,7,64,1,-49,Arts and Entertainment,0,0,0,YES
+727,0,57,1,3,167,66,7,65,1,-49,Education,0,0,1,YES
+768,0,57,1,3,166,89,7,66,1,-49,Sales and Business Management,0,0,1,YES
+809,0,57,0,3,165,77,7,67,1,-49,Sales and Business Management,0,0,0,YES
+850,0,57,1,3,164,76,7,68,1,-49,Arts and Entertainment,0,0,0,YES
+891,0,57,0,3,163,57,7,69,1,-49,Sales and Business Management,0,0,0,YES
+909,0,57,0,3,162,58,7,70,1,-49,Architecture and Engineering,1,0,1,NO
+917,0,57,1,3,161,59,7,71,1,-49,Arts and Entertainment,1,0,0,YES
+925,0,57,0,3,167,60,6.9,72,1,-49,Architecture and Engineering,1,0,1,YES
+933,0,57,1,3,166,61,7.4,73,1,-49,Architecture and Engineering,1,0,1,NO
+941,0,57,0,3,165,62,7.3,74,1,-49,Sales and Business Management,0,0,1,NO
+949,0,57,1,3,164,63,7,75,1,-49,Sales and Business Management,0,1,1,NO
+957,0,57,1,3,163,64,7,76,1,-49,Sales and Business Management,0,1,1,YES
+965,0,57,1,3,162,65,7,77,1,-49,Sales and Business Management,0,1,1,NO
+973,0,57,1,3,161,66,7,78,0,-49,Architecture and Engineering,0,1,1,NO
+981,0,57,0,3,167,89,7,79,0,-49,Government,0,1,1,YES
+989,0,57,1,3,166,77,7,80,0,-49,Government,0,1,1,NO
+997,0,57,1,3,165,76,7,81,0,-49,Government,0,1,1,YES
+1028,0,57,0,3,164,57,7,82,0,-49,Education,0,1,1,YES
+1069,0,57,1,3,163,58,7,83,0,-49,Sales and Business Management,0,1,1,YES
+1108,0,57,1,3,162,59,7,84,1,-49,Education,0,0,1,YES
+1147,0,57,0,3,161,60,7.5,85,0,-49,Government,0,0,0,YES
+1186,0,57,0,3,167,61,7.4,86,1,-49,Education,0,0,1,YES
+1225,0,57,1,3,166,62,7.3,87,0,-49,Arts and Entertainment,1,0,0,YES
+1264,0,57,1,3,165,63,7,88,0,-49,Sales and Business Management,0,0,1,YES
+1303,0,57,1,3,164,64,7,89,0,-49,Government,0,0,0,NO
+31,1,58,1,3,153,85,5.2,90,0,-51,Health and Medicine,0,1,1,NO
+69,1,58,1,3,154,84.6,5.1,91,0,-51,Architecture and Engineering,1,0,1,NO
+107,1,58,1,3,155,84.05714286,5,92,0,-51,Education,0,0,1,YES
+318,1,58,1,3,156,83.51428571,4.9,93,0,-51,Health and Medicine,0,0,1,NO
+359,1,58,1,3,157,82.97142857,3.8,94,0,-51,Health and Medicine,0,0,1,NO
+400,1,58,0,3,158,82.42857143,3.8,95,0,-51,Arts and Entertainment,1,0,0,YES
+441,1,58,1,3,159,81.88571429,6.9,96,0,-51,Education,0,0,1,YES
+482,1,58,1,3,150,81.34285714,6.8,97,0,-51,Health and Medicine,0,0,0,NO
+523,1,58,1,3,151,82,6.7,98,0,-51,Sales and Business Management,0,0,1,YES
+564,1,58,1,3,152,83,6.6,99,0,-51,Health and Medicine,0,0,1,NO
+605,1,58,0,3,153,84,6.5,100,0,-51,Arts and Entertainment,1,0,0,YES
+646,1,58,1,3,154,85,6.4,101,1,-51,Community and Social Services,0,0,0,NO
+687,0,58,0,3,163,65,7,102,0,-51,Law and Public Policy,0,0,0,NO
+728,0,58,1,3,162,66,7,103,1,-51,Health and Medicine,0,0,1,NO
+769,0,58,1,3,161,89,7,104,0,-51,Health and Medicine,0,0,1,NO
+810,0,58,0,3,167,77,7,105,0,-51,Sales and Business Management,0,0,0,YES
+851,0,58,1,3,166,76,7,106,0,-51,Sales and Business Management,0,0,1,YES
+892,0,58,0,3,165,57,7,107,0,-51,Sales and Business Management,0,0,0,YES
+910,0,58,0,3,164,58,7,108,0,-51,Sales and Business Management,0,0,1,YES
+918,0,58,1,3,163,59,7,109,0,-51,Sales and Business Management,0,0,1,YES
+926,0,58,0,3,162,60,7.5,110,0,-51,Education,0,0,1,YES
+934,0,58,1,3,161,61,7.4,111,1,-51,Health and Medicine,0,1,1,NO
+942,0,58,0,3,167,62,7.3,112,0,-51,Health and Medicine,0,1,0,NO
+950,0,58,1,3,166,63,7,113,0,-51,Education,0,1,1,YES
+958,0,58,1,3,165,64,7,114,0,-51,Architecture and Engineering,0,1,0,YES
+966,0,58,1,3,164,65,7,115,0,-51,Education,0,1,1,YES
+974,0,58,1,3,163,66,7,116,0,-51,Sales and Business Management,0,1,1,NO
+982,0,58,0,3,162,89,7,117,0,-51,Sales and Business Management,0,1,1,NO
+990,0,58,1,3,161,77,7,118,0,-51,Community and Social Services,1,1,1,YES
+998,0,58,1,3,165,76,7,119,1,-51,Sales and Business Management,0,1,1,NO
+1029,0,58,0,3,164,57,7,120,0,-51,Health and Medicine,1,0,1,NO
+1070,0,58,1,3,163,58,7,121,0,-51,Health and Medicine,1,0,1,NO
+1109,0,58,1,3,162,59,7,122,0,-51,Health and Medicine,1,0,1,NO
+1148,0,58,0,4,161,60,7.5,123,0,-51,Education,1,0,1,YES
+1187,0,58,1,4,167,61,7.4,124,0,-51,Community and Social Services,1,0,1,YES
+1226,0,58,0,4,166,62,7.3,125,0,-51,Sales and Business Management,1,0,1,NO
+1265,0,58,0,4,165,63,7,126,0,-51,Sales and Business Management,1,0,1,YES
+1304,0,58,1,4,164,64,7,127,0,-51,Sales and Business Management,1,0,1,YES
+32,1,59,1,4,155,86,6.3,128,1,-53,Education,1,0,1,YES
+70,1,59,0,4,156,87,6.2,129,1,-53,Government,1,0,1,YES
+108,1,59,1,4,157,88,6.1,130,1,-53,Government,1,0,1,NO
+319,1,59,1,4,158,89,6,131,0,-53,Education,1,0,1,YES
+360,1,59,1,4,159,90,6.9,132,0,-53,Education,1,0,1,YES
+401,1,59,0,4,150,96,6.8,133,0,-53,Government,1,0,1,YES
+442,1,59,1,4,151,95,6.7,134,0,-53,Sales and Business Management,1,1,1,NO
+483,1,59,0,4,152,89,6.6,135,0,-53,Government,1,1,0,NO
+524,1,59,1,4,153,89,6.5,136,0,-53,Sales and Business Management,1,1,1,YES
+565,1,59,1,4,154,89,6.4,137,0,-53,"Farming, Forestry and Fishing",1,1,0,YES
+606,1,59,0,4,155,88,6.3,138,0,-53,Education,0,1,0,YES
+647,1,59,1,4,156,88,6.2,139,0,-53,Government,0,1,0,NO
+688,0,59,0,4,163,65,7,140,1,-53,Architecture and Engineering,1,0,0,YES
+729,0,59,1,4,162,66,7,141,0,-53,Architecture and Engineering,1,0,0,YES
+770,0,59,1,4,161,89,7,142,0,-53,Government,0,0,0,NO
+811,0,59,0,4,167,77,7,143,0,-53,Government,0,0,0,NO
+852,0,59,0,4,166,76,7,144,0,-53,Government,1,0,0,YES
+893,0,59,0,4,165,57,7,145,0,-53,Education,0,0,0,NO
+1030,0,59,0,4,164,58,7,146,1,-53,Architecture and Engineering,1,0,1,NO
+1071,0,59,1,4,163,59,7,147,0,-53,Education,0,1,0,YES
+1110,0,59,1,4,162,60,7.5,148,0,-53,Government,1,1,0,NO
+1149,0,59,0,4,161,61,7.4,149,1,-53,Education,0,1,1,YES
+1188,0,59,1,4,167,62,7.3,150,0,-53,Sales and Business Management,0,1,1,YES
+1227,0,59,1,4,166,63,7,151,0,-53,Sales and Business Management,0,1,1,YES
+1266,0,59,0,4,165,64,7,152,0,-53,Government,0,1,0,NO
+1305,0,59,1,4,164,65,7,153,0,-53,Government,0,1,1,YES
+33,1,60,1,4,157,87,6.1,154,0,-55,Health and Medicine,1,1,1,NO
+71,1,60,1,4,158,87,6,155,0,-55,Health and Medicine,0,1,1,NO
+109,1,60,0,4,159,86,5.9,156,0,-55,Health and Medicine,1,1,1,NO
+320,1,60,1,4,150,86,5.8,157,0,-55,Law and Public Policy,0,1,1,NO
+361,1,60,1,4,151,85,5.7,158,0,-55,Law and Public Policy,1,1,1,NO
+402,1,60,0,4,152,84.6,5.6,159,0,-55,Law and Public Policy,0,1,1,NO
+443,1,60,1,4,153,84.05714286,5.5,160,0,-55,Community and Social Services,0,1,1,YES
+484,1,60,0,4,154,83.51428571,5.4,161,0,-55,Health and Medicine,0,1,1,NO
+525,1,60,1,4,155,82.97142857,5.3,162,0,-55,Health and Medicine,0,1,1,NO
+566,1,60,1,4,156,82.42857143,5.2,163,0,-55,Health and Medicine,0,1,1,NO
+607,1,60,0,1,157,81.88571429,5.1,164,0,-55,Health and Medicine,0,1,1,NO
+648,1,60,0,1,158,81.34285714,5,165,0,-55,Health and Medicine,0,1,0,NO
+689,0,60,0,1,163,66,7,166,0,-55,Health and Medicine,0,1,1,NO
+730,0,60,1,1,162,89,7,167,0,-55,Health and Medicine,0,1,1,NO
+771,0,60,0,1,161,77,7,168,0,-55,Education,0,0,1,YES
+812,0,60,0,1,150,76,7,169,1,-55,Sales and Business Management,0,0,1,NO
+853,0,60,1,1,151,57,7,170,0,-55,Sales and Business Management,0,0,1,NO
+894,0,60,0,1,152,58,7,171,0,-55,Sales and Business Management,0,0,1,YES
+1031,0,60,1,1,153,59,7,172,0,-55,Sales and Business Management,0,0,1,NO
+1072,0,60,1,1,154,60,7.5,173,0,-55,Education,0,0,1,YES
+1111,0,60,0,1,155,61,7.4,174,0,-55,Health and Medicine,0,0,1,NO
+1150,0,60,0,1,156,62,7.3,175,0,-55,Health and Medicine,0,0,1,NO
+1189,0,60,1,1,157,63,7,176,1,-55,Health and Medicine,0,0,1,NO
+1228,0,60,1,1,158,64,7,177,0,-55,Sales and Business Management,0,0,0,YES
+1267,0,60,0,1,159,65,7,40,0,-55,Sales and Business Management,0,0,1,YES
+1306,0,60,1,1,150,66,7,41,0,-55,Sales and Business Management,0,0,0,YES
+34,1,61,1,1,159,82,4.9,42,0,-57,Health and Medicine,0,1,1,NO
+72,1,61,1,1,150,83,5.9,43,0,-57,Health and Medicine,0,0,1,NO
+110,1,61,0,1,151,84,5.8,44,0,-57,Health and Medicine,0,0,0,NO
+321,1,61,1,1,152,85,5.7,45,0,-57,Arts and Entertainment,1,0,0,YES
+362,1,61,1,1,153,86,5.6,46,0,-57,Law and Public Policy,0,0,1,YES
+403,1,61,0,1,154,87,5.5,47,0,-57,Community and Social Services,0,0,0,NO
+444,1,61,0,1,155,88,5.4,48,0,-57,Law and Public Policy,0,0,0,NO
+485,1,61,0,1,156,89,5.3,49,0,-57,Health and Medicine,0,0,0,NO
+526,1,61,1,1,157,90,5.2,50,0,-57,Health and Medicine,0,0,1,NO
+567,1,61,0,1,158,96,5.1,51,0,-57,Education,0,0,1,YES
+608,1,61,0,1,159,95,5,52,0,-57,Health and Medicine,0,0,0,NO
+649,1,61,1,1,150,89,4.9,53,0,-57,Health and Medicine,0,0,1,NO
+690,0,61,0,2,151,89,7,54,0,-57,Education,0,0,1,YES
+731,0,61,1,2,152,77,7,55,0,-57,Sales and Business Management,0,1,0,YES
+772,0,61,0,2,153,76,7,56,0,-57,Education,0,0,1,YES
+813,0,61,1,2,154,57,7,57,0,-57,Arts and Entertainment,0,1,0,YES
+854,0,61,1,2,155,58,7,58,0,-57,Sales and Business Management,0,1,0,YES
+895,0,61,1,2,156,59,7,59,1,-57,Sales and Business Management,0,1,0,YES
+1032,0,61,1,2,157,60,6.9,60,0,-57,Community and Social Services,0,1,1,NO
+1073,0,61,1,2,158,61,6.8,61,0,-57,Health and Medicine,0,1,1,NO
+1112,0,61,0,2,159,62,6.7,62,0,-57,Sales and Business Management,0,1,1,YES
+1151,0,61,0,2,150,63,6.6,63,0,-57,Education,0,1,1,YES
+1190,0,61,1,2,151,64,6.5,64,0,-57,Health and Medicine,0,1,1,NO
+1229,0,61,1,2,152,65,6.4,65,0,-57,Health and Medicine,0,1,1,NO
+1268,0,61,0,2,153,66,6.3,66,0,-57,Health and Medicine,0,0,0,NO
+1307,0,61,1,2,154,89,6.2,67,0,-57,"Farming, Forestry and Fishing",0,0,0,YES
+35,1,62,1,2,151,89,5.9,68,0,-59,Community and Social Services,0,0,0,NO
+73,1,62,1,2,152,89,5.8,69,0,-59,Community and Social Services,0,0,0,NO
+111,1,62,0,2,153,88,5.7,70,0,-59,Community and Social Services,0,0,0,NO
+322,1,62,1,2,154,88,5.6,71,0,-59,Education,0,0,1,YES
+363,1,62,0,2,155,87,5.5,72,0,-59,Education,0,0,1,YES
+404,1,62,0,2,156,87,5.4,73,0,-59,Health and Medicine,0,0,0,NO
+445,1,62,1,2,157,86,5.3,74,0,-59,Health and Medicine,0,1,1,NO
+486,1,62,0,2,158,86,5.2,75,0,-59,Health and Medicine,0,1,0,YES
+527,1,62,1,2,159,85,5.1,76,0,-59,Health and Medicine,0,1,1,NO
+568,1,62,0,2,150,84.6,5,77,0,-59,Law and Public Policy,0,1,0,NO
+609,1,62,1,2,151,84.05714286,4.9,78,0,-59,Law and Public Policy,0,1,1,NO
+650,0,62,1,2,155,77,6.1,79,1,-59,Education,0,0,0,YES
+691,0,62,1,2,156,76,6,80,0,-59,Law and Public Policy,0,0,1,NO
+732,0,62,1,2,157,57,5.9,81,0,-59,Health and Medicine,0,0,1,NO
+773,0,62,0,2,158,58,5.8,82,0,-59,Community and Social Services,0,0,1,YES
+814,0,62,1,2,159,59,5.7,83,0,-59,Health and Medicine,0,0,1,NO
+855,0,62,1,2,150,60,5.6,84,0,-59,Community and Social Services,0,0,1,YES
+896,0,62,1,2,151,61,5.5,85,1,-59,Community and Social Services,0,0,1,NO
+1033,0,62,1,2,152,62,5.4,86,0,-59,Health and Medicine,0,0,1,NO
+1074,0,62,1,2,153,63,5.3,87,0,-59,Health and Medicine,0,0,1,NO
+1113,0,62,0,2,154,64,5.2,88,0,-59,Education,0,0,1,YES
+1152,0,62,0,2,155,65,5.1,89,0,-59,Health and Medicine,0,0,1,NO
+1191,0,62,1,2,156,66,5,90,0,-59,Health and Medicine,0,0,1,NO
+1230,0,62,1,2,157,89,4.9,91,1,-59,Education,0,0,1,YES
+1269,0,62,1,2,158,77,4.8,92,0,-59,Education,0,1,1,YES
+1308,0,62,1,2,159,76,4.7,93,0,-59,Health and Medicine,0,1,1,NO
+36,1,63,0,2,152,83.51428571,3.8,94,0,-61,Health and Medicine,0,1,0,NO
+74,1,63,1,2,153,82.97142857,3.8,95,0,-61,Health and Medicine,0,1,1,NO
+112,1,63,0,2,154,82.42857143,6.9,96,0,-61,Health and Medicine,0,1,1,NO
+323,1,63,1,2,155,81.88571429,6.8,97,0,-61,Health and Medicine,0,1,0,NO
+364,1,63,0,2,156,81.34285714,6.7,98,0,-61,Health and Medicine,0,1,1,NO
+405,1,63,1,2,157,82,6.6,99,0,-61,Education,0,1,0,YES
+446,1,63,1,2,158,83,6.5,100,0,-61,Health and Medicine,0,1,1,NO
+487,1,63,1,2,159,84,6.4,101,0,-61,Health and Medicine,0,1,1,NO
+528,1,63,1,2,150,85,6.3,102,0,-61,Health and Medicine,0,1,1,NO
+569,1,63,0,2,151,86,6.2,103,0,-61,Education,0,1,1,YES
+610,1,63,1,2,152,87,6.1,104,0,-61,"Farming, Forestry and Fishing",0,1,1,NO
+651,0,63,1,2,150,57,4.6,105,0,-61,Health and Medicine,0,1,1,NO
+692,0,63,1,2,151,58,4.5,106,0,-61,Health and Medicine,0,1,1,NO
+733,0,63,1,2,152,59,4.4,107,0,-61,Law and Public Policy,1,1,0,NO
+774,0,63,0,2,153,60,6.9,108,1,-61,Education,1,1,1,YES
+815,0,63,1,2,154,61,6.8,109,0,-61,Law and Public Policy,1,1,0,YES
+856,0,63,1,2,155,62,6.7,110,0,-61,Sales and Business Management,1,1,0,YES
+897,0,63,1,2,156,63,6.6,111,0,-61,Health and Medicine,1,1,1,NO
+1034,0,63,1,2,157,64,6.5,112,0,-61,Architecture and Engineering,1,0,0,YES
+1075,0,63,1,2,158,65,6.4,113,0,-61,Community and Social Services,1,0,0,NO
+1114,0,63,0,2,159,66,6.3,114,1,-61,Health and Medicine,1,0,0,NO
+1153,0,63,1,2,150,89,6.2,115,0,-61,"Farming, Forestry and Fishing",1,0,0,YES
+1192,0,63,0,2,151,77,6.1,116,0,-61,Health and Medicine,1,0,1,NO
+1231,0,63,0,2,152,76,6,117,0,-61,Health and Medicine,0,0,0,YES
+1270,0,63,1,2,153,57,5.9,118,0,-61,Community and Social Services,0,0,1,YES
+1309,0,63,1,2,154,58,5.8,119,0,-61,Community and Social Services,1,0,1,YES
+37,1,64,1,2,153,88,6,120,0,-63,Health and Medicine,0,1,1,NO
+75,1,64,0,2,154,89,6.9,121,0,-63,Community and Social Services,0,1,0,NO
+113,1,64,1,2,155,90,6.8,122,0,-63,Health and Medicine,0,1,0,NO
+324,1,64,1,2,156,96,6.7,123,0,-63,Arts and Entertainment,0,0,0,YES
+365,1,64,0,2,157,95,6.6,124,0,-63,Health and Medicine,0,0,0,NO
+406,1,64,1,2,158,89,6.5,125,0,-63,Health and Medicine,0,0,1,NO
+447,1,64,1,2,159,89,6.4,126,0,-63,Health and Medicine,0,0,1,NO
+488,1,64,1,2,150,89,6.3,127,0,-63,Health and Medicine,0,0,1,NO
+529,1,64,1,2,151,88,6.2,128,0,-63,Law and Public Policy,0,0,0,NO
+570,1,64,0,2,152,88,6.1,129,0,-63,Community and Social Services,1,0,1,YES
+611,1,64,1,2,153,87,6,130,0,-63,Health and Medicine,1,0,1,NO
+652,0,64,1,2,155,59,5.7,131,0,-63,"Installation, Repair and Maintenance",0,0,1,NO
+693,0,64,1,2,156,60,5.6,132,0,-63,"Installation, Repair and Maintenance",1,0,1,NO
+734,0,64,1,2,157,61,5.5,133,0,-63,Community and Social Services,0,0,1,YES
+775,0,64,0,2,158,62,5.4,134,0,-63,Education,1,0,1,YES
+816,0,64,1,2,159,63,5.3,135,1,-63,Health and Medicine,0,0,1,NO
+857,0,64,0,2,150,64,5.2,136,0,-63,Health and Medicine,0,0,1,NO
+898,0,64,1,2,151,65,5.1,137,1,-63,Education,0,0,1,YES
+1035,0,64,1,2,152,66,5,138,1,-63,Health and Medicine,0,0,1,NO
+1076,0,64,1,2,153,89,4.9,139,1,-63,Health and Medicine,0,0,1,NO
+1115,0,64,0,2,154,77,4.8,140,1,-63,Education,0,0,1,YES
+1154,0,64,1,2,155,76,4.7,141,1,-63,Health and Medicine,0,0,1,NO
+1193,0,64,1,2,156,57,4.6,142,1,-63,Health and Medicine,0,0,1,NO
+1232,0,64,0,2,157,58,4.5,143,1,-63,Health and Medicine,0,0,0,NO
+1271,0,64,1,2,158,59,4.4,144,1,-63,Community and Social Services,0,0,0,NO
+1310,0,64,1,2,159,60,6.9,145,0,-63,Arts and Entertainment,0,0,0,NO
+38,1,65,1,2,154,87,5.9,146,0,-65,Health and Medicine,1,0,1,NO
+76,1,65,0,2,155,86,5.8,147,0,-65,Law and Public Policy,1,0,0,NO
+114,1,65,1,2,156,86,5.7,148,0,-65,"Installation, Repair and Maintenance",1,0,0,NO
+325,1,65,1,2,157,85,5.6,149,0,-65,Law and Public Policy,1,0,0,NO
+366,1,65,0,2,158,84.6,5.5,150,0,-65,Law and Public Policy,1,0,0,YES
+407,1,65,1,2,159,84.05714286,5.4,151,0,-65,Community and Social Services,1,0,0,NO
+448,1,65,1,2,150,83.51428571,5.3,152,0,-65,Law and Public Policy,1,0,1,NO
+489,1,65,1,2,151,82.97142857,5.2,153,0,-65,Community and Social Services,1,0,0,NO
+530,1,65,1,2,152,82.42857143,5.1,154,0,-65,Law and Public Policy,0,0,1,NO
+571,1,65,0,2,153,81.88571429,5,155,0,-65,Health and Medicine,0,1,0,NO
+612,1,65,1,2,154,81.34285714,4.9,156,0,-65,Community and Social Services,1,1,1,YES
+653,0,65,0,2,150,61,6.8,157,0,-65,Education,0,0,1,YES
+694,0,65,1,2,151,62,6.7,158,0,-65,Sales and Business Management,0,1,0,YES
+735,0,65,1,2,152,63,6.6,159,0,-65,Health and Medicine,0,1,1,NO
+776,0,65,0,2,153,64,6.5,160,1,-65,Sales and Business Management,0,1,0,YES
+817,0,65,1,2,154,65,6.4,161,0,-65,Education,0,0,0,YES
+858,0,65,0,2,155,66,6.3,162,0,-65,Education,0,0,1,YES
+899,0,65,1,2,156,89,6.2,163,1,-65,Education,0,0,0,YES
+1036,0,65,1,2,157,77,6.1,164,0,-65,Education,0,0,0,YES
+1077,0,65,0,2,158,76,6,165,0,-65,Health and Medicine,0,0,0,NO
+1116,0,65,0,2,159,57,5.9,166,0,-65,Law and Public Policy,0,0,0,NO
+1155,0,65,1,2,150,58,5.8,167,0,-65,Community and Social Services,0,0,0,NO
+1194,0,65,1,2,151,59,5.7,168,0,-65,Community and Social Services,0,0,0,NO
+1233,0,65,0,2,152,60,5.6,169,0,-65,Health and Medicine,0,0,0,YES
+1272,0,65,1,2,153,61,5.5,170,0,-65,Health and Medicine,0,0,1,NO
+1311,0,65,1,2,154,62,5.4,171,0,-65,Health and Medicine,0,0,1,NO
+326,1,66,1,2,155,82,5.9,172,0,-67,Health and Medicine,0,1,1,NO
+367,1,66,0,2,156,83,5.8,173,0,-67,Health and Medicine,1,1,1,NO
+408,1,66,1,2,157,84,5.7,174,0,-67,Health and Medicine,0,1,1,NO
+449,1,66,0,2,158,85,5.6,175,0,-67,Education,1,1,1,YES
+490,1,66,1,2,150,86,5.5,176,0,-67,Education,0,1,1,YES
+531,1,66,1,2,151,87,5.4,177,0,-67,Education,0,1,1,YES
+572,1,66,0,2,152,88,5.3,40,0,-67,Education,0,1,1,YES
+613,1,66,1,2,153,89,5.2,41,0,-67,Education,0,1,1,YES
+654,0,66,0,2,155,63,5.3,42,0,-67,Education,0,0,1,YES
+695,0,66,1,2,156,64,5.2,43,0,-67,Community and Social Services,0,0,1,YES
+736,0,66,1,2,157,65,5.1,44,0,-67,Health and Medicine,0,0,1,NO
+777,0,66,0,2,158,66,5,45,0,-67,Health and Medicine,0,0,1,NO
+818,0,66,0,2,159,89,4.9,46,0,-67,Health and Medicine,0,0,1,NO
+859,0,66,0,2,150,77,4.8,47,0,-67,Health and Medicine,0,0,1,NO
+900,0,66,1,2,151,76,4.7,48,0,-67,Health and Medicine,0,0,1,NO
+1037,0,66,1,2,152,57,4.6,49,0,-67,Architecture and Engineering,1,0,1,NO
+1078,0,66,0,2,153,58,4.5,50,0,-67,Health and Medicine,0,0,1,NO
+1117,0,66,0,2,154,59,4.4,51,0,-67,Community and Social Services,0,0,1,YES
+1156,0,66,1,2,155,60,6.9,52,0,-67,Health and Medicine,0,0,1,NO
+1195,0,66,1,3,156,61,6.8,53,0,-67,Community and Social Services,0,0,0,YES
+1234,0,66,0,3,157,62,6.7,54,1,-67,Law and Public Policy,0,0,0,NO
+1273,0,66,1,3,158,63,6.6,55,0,-67,Education,0,1,1,YES
+1312,0,66,1,3,159,64,6.5,56,0,-67,Sales and Business Management,0,1,1,YES
+121,1,67,1,3,154,90,5.1,57,0,-69,Community and Social Services,0,1,1,YES
+128,1,67,0,3,155,96,5,58,0,-69,Community and Social Services,0,1,1,NO
+135,1,67,1,3,156,95,4.9,59,0,-69,Community and Social Services,0,1,0,NO
+142,1,67,1,3,157,89,5.9,60,0,-69,Education,0,1,0,YES
+149,1,67,1,3,158,89,5.8,61,0,-69,Health and Medicine,0,1,1,NO
+156,1,67,1,3,159,89,5.7,62,0,-69,Health and Medicine,0,1,1,NO
+163,1,67,0,3,159,88,5.6,63,0,-69,Education,0,1,0,NO
+170,1,67,1,3,150,88,5.5,64,0,-69,Health and Medicine,0,1,1,NO
+177,1,67,0,3,151,87,5.4,65,0,-69,Education,0,1,1,YES
+184,1,67,1,3,152,87,5.3,66,0,-69,Education,0,0,0,YES
+191,1,67,1,3,153,86,5.2,67,0,-69,Education,0,0,0,YES
+327,1,67,1,3,154,86,5.1,68,0,-69,Education,0,0,0,YES
+368,1,67,0,3,155,85,5,69,0,-69,Education,0,0,1,YES
+409,1,67,1,3,156,84.6,4.9,70,0,-69,Law and Public Policy,0,0,0,NO
+450,1,67,0,3,157,84.05714286,3.8,71,0,-69,Sales and Business Management,0,0,0,YES
+491,1,67,1,3,158,83.51428571,3.8,72,0,-69,Health and Medicine,0,0,1,NO
+532,1,67,1,3,159,82.97142857,6.9,73,0,-69,Education,0,0,0,YES
+573,1,67,0,3,157,82.42857143,6.8,74,0,-69,Health and Medicine,0,0,1,NO
+614,1,67,0,3,158,81.88571429,6.7,75,0,-69,Sales and Business Management,0,0,1,NO
+655,0,67,0,3,150,65,6.4,76,0,-69,Community and Social Services,0,1,0,NO
+696,0,67,1,3,151,66,6.3,77,0,-69,Education,0,0,0,YES
+737,0,67,0,3,152,89,6.2,78,0,-69,"Farming, Forestry and Fishing",0,0,0,YES
+778,0,67,0,3,153,77,6.1,79,0,-69,"Farming, Forestry and Fishing",0,0,0,YES
+819,0,67,1,3,154,76,6,80,0,-69,Education,0,0,0,YES
+860,0,67,0,3,155,57,5.9,81,0,-69,Health and Medicine,0,0,0,NO
+901,0,67,1,3,156,58,5.8,82,0,-69,Health and Medicine,0,0,1,NO
+1038,0,67,1,3,157,59,5.7,83,0,-69,Education,0,0,0,YES
+1079,0,67,0,3,158,60,5.6,84,0,-69,Education,0,0,1,YES
+1118,0,67,0,3,150,61,5.5,85,0,-69,Education,0,0,1,YES
+1157,0,67,1,3,151,62,5.4,86,0,-69,Law and Public Policy,0,0,1,NO
+1196,0,67,1,3,152,63,5.3,87,0,-69,Health and Medicine,0,0,1,NO
+1235,0,67,1,3,153,64,5.2,88,0,-69,Health and Medicine,0,0,1,NO
+1274,0,67,1,3,154,65,5.1,89,0,-69,Health and Medicine,0,0,1,NO
+1313,0,67,1,3,155,66,5,90,0,-69,Health and Medicine,0,0,1,NO
+328,1,68,1,3,150,81.34285714,6.6,91,0,-71,Community and Social Services,0,0,1,YES
+369,1,68,0,3,151,82,6.5,92,0,-71,Community and Social Services,0,0,1,YES
+410,1,68,0,3,152,83,6.4,93,0,-71,Community and Social Services,0,0,1,YES
+451,1,68,0,3,153,84,6.3,94,0,-71,Community and Social Services,0,0,1,YES
+492,1,68,1,3,154,85,6.2,95,0,-71,Health and Medicine,0,0,1,NO
+533,1,68,0,3,155,86,6.1,96,0,-71,Health and Medicine,0,0,0,NO
+574,1,68,0,3,156,87,6,97,0,-71,Community and Social Services,0,0,1,YES
+615,1,68,1,3,157,88,6.9,98,0,-71,Arts and Entertainment,0,1,0,NO
+656,0,68,0,3,156,89,4.9,99,0,-71,Health and Medicine,0,0,1,NO
+697,0,68,1,3,157,77,4.8,100,0,-71,Health and Medicine,0,0,1,NO
+738,0,68,0,3,158,76,4.7,101,0,-71,Community and Social Services,0,0,1,YES
+779,0,68,1,3,159,76,4.6,102,0,-71,Community and Social Services,0,0,1,NO
+820,0,68,1,3,159,76,4.5,103,0,-71,Community and Social Services,0,0,1,YES
+861,0,68,1,3,150,76,4.4,104,0,-71,Community and Social Services,0,0,1,YES
+902,0,68,1,3,151,76,4.4,105,0,-71,Community and Social Services,0,0,1,YES
+1039,0,68,1,3,152,76,4.4,106,0,-71,Community and Social Services,0,0,1,NO
+1040,0,69,1,3,153,76,4.4,107,0,-73,Community and Social Services,0,0,1,YES
